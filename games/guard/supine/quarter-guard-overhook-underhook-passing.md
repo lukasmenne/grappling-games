@@ -4,7 +4,7 @@
 A focused drill on passing the quarter guard from an overhook/underhook or head and arm control position.
 
 ## Details
-**Time:** 5 minutes - switching back and forth
+**Time:** 5 minutes, 2 partners or 10 minutes total - switching back and forth
 
 ### Top Player
 **Position:** Top of quarter guard with over-hook/under-hook, or head and arm control and chest to chest contact on your partner  
