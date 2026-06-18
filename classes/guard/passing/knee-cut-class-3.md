@@ -7,7 +7,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 1. [Kimura Defense vs Single Leg Takedown](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
 2. [Single Leg Control with Multiple Finish Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
-3. [Quarter Guard Underhook Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-passing.md)
+3. [Quarter Guard Underhook Progression Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
 4. [Head Quarters to Knee Slice or Leg Weave Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-knee-slice-leg-weave.md)
 5. [Knee Slice, Leg Weave, or X Pass Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
 6. [Side Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
@@ -18,7 +18,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
   - Single Leg Control with Multiple Finish Options: 6 minutes (3 x 2-minute rounds)
 
 - Guard Passing Drills: 18 minutes
-  - Quarter Guard Underhook Passing: 6 minutes (2 x 3-minute rounds)
+  - Quarter Guard Underhook Progression Passing: 6 minutes (2 x 3-minute rounds)
   - Head Quarters to Knee Slice or Leg Weave Pass: 6 minutes (2 x 3-minute rounds)
   - Knee Slice, Leg Weave, or X Pass Drill: 6 minutes (2 x 3-minute rounds)
 - Positional Control: 6 minutes
@@ -65,21 +65,21 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Guard Passing Drills
 
-### 2.1 - [Quarter Guard Underhook Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-passing.md)
+### 2.1 - [Quarter Guard Underhook Progression Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
 
-**Overview:** A focused drill on passing the quarter guard from an underhook control position.
+**Overview:** A progressive quarter guard passing game where the top player can start each reset from either double underhooks or single underhook control.
 
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
+**Time:** 6 minutes total, 1 partner - switching back and forth
 
 #### Top Player
-**Position:** Top of quarter guard with underhook on your partner who is on their side facing you  
-**Objective:** Hold bottom player down and maintain the underhook. Work to free your trapped leg using your free leg  
-**Win:** Pin in side control with crossface and underhook control for 3 seconds, OR establish mount for 3 seconds
+**Position:** Top of quarter guard with the option to start each reset from either (1) double underhooks with chest-to-chest pressure, or (2) single underhook with the bottom player on their side  
+**Objective:** Maintain upper-body control, flatten your partner when needed, and free your trapped leg to complete the pass  
+**Win:** Pass to side control with chest connection for 3 seconds, or establish mount for 3 seconds
 
 #### Bottom Player
-**Position:** On your side in quarter guard facing your partner who has an underhook  
-**Objective:** Get both your knees in between you and your opponent  
-**Win:** Successfully get both knees between you and your opponent
+**Position:** Bottom of quarter guard while defending either double underhook or single underhook control  
+**Objective:** Clear underhook control, recover strong frames, and insert knees/elbows to recover guard or stand  
+**Win:** Remove underhook control and recover any form of guard, or stand up with separation
 
 ### 2.2 - [Head Quarters to Knee Slice or Leg Weave Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-knee-slice-leg-weave.md)
 
