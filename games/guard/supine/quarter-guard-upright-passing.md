@@ -4,7 +4,7 @@
 A drill focusing on passing the quarter guard from an upright position without initial upper body connections.
 
 ## Details
-**Time:** 5 minutes - switching back and forth
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 ### Top Player
 **Position:** Top of quarter guard with no upper body connections on your partner, sitting upright on their thigh  
