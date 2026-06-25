@@ -5,8 +5,8 @@ This class develops lasso guard fundamentals and related concepts, starting with
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Head Position to Neck Trap vs Underhook](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-neck-trap-vs-underhook.md)
-2. [Head Position to Single Leg vs Underhook](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-single-leg-vs-underhook.md)
+1. [T-Position to Takedown Entries](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+2. [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-3.md)
 3. [Lasso Guard Maintenance - Kneeling Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-kneeling.md)
 4. [Lasso Guard Maintenance - Standing Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-standing.md)
 5. [Triangle Position Control and Finishing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
@@ -14,8 +14,8 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
-  - Head Position to Neck Trap: 6 minutes (2 x 3-minute rounds)
-  - Head Position to Single Leg: 6 minutes (2 x 3-minute rounds)
+  - T-Position to Takedown Entries: 6 minutes (2 x 3-minute rounds)
+  - Progressive Guard Passing: 6 minutes (2 x 3-minute rounds)
 - Guard Drills: 24 minutes
   - Lasso Maintenance Kneeling: 6 minutes (2 x 3-minute rounds)
   - Lasso Maintenance Standing: 6 minutes (2 x 3-minute rounds)
@@ -24,38 +24,46 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Head Position to Neck Trap vs Underhook](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-neck-trap-vs-underhook.md)
+### 1.1 - [T-Position to Takedown Entries](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
 
-**Overview:** A standing drill where one partner works to connect their head to their partner's side of neck and trap, while the other partner works to establish an underhook.
-
-**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
-
-#### Head Position Player
-**Position:** Standing, facing your partner with no initial connections  
-**Objective:** Connect your head to the side of your partner's neck and trap it  
-**Win:** Successfully connect your head to the side of your partner's neck and trap it  
-
-#### Underhook Player
-**Position:** Standing, facing your partner with no initial connections  
-**Objective:** Establish an underhook on your partner  
-**Win:** Successfully establish an underhook  
-
-### 1.2 - [Head Position to Single Leg vs Underhook](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-single-leg-vs-underhook.md)
-
-**Overview:** A standing drill where one partner works to connect their head to their partner's side of neck and then pick up a single leg, while the other partner works to establish an underhook.
+**Overview:** A standing drill focusing on transitioning from a T-position underhook to dominant body control. The attacker looks to secure a bodylock, pick up a single leg, or achieve tight hip-to-hip connection and lift.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-#### Head Position Player
-**Position:** Standing, facing your partner with no initial connections  
-**Objective:** Connect your head to the side of your partner's neck, then pick up a single leg  
-**Constraints:** Must be connected to partner's neck before going for the single leg  
-**Win:** Successfully pick up a single leg after connecting head to partner's neck  
+#### Attacking Player
+**Position:** Standing in T-position with an underhook on your partner  
+**Objective:** Progress from underhook T-position to either (1) bodylock (front or back), (2) single leg pickup, or (3) tight hip-to-hip elevation  
+**Constraints:** No throws beyond controlled elevation; partner must land safely with feet under them  
+**Win:** (a) Secure a bodylock (front or back), OR (b) successfully pick up a single leg, OR (c) drive the back of your hips into the front of defender's hips and lift opponent so both their feet briefly leave the mat
 
-#### Underhook Player
-**Position:** Standing, facing your partner with no initial connections  
-**Objective:** Establish an underhook on your partner  
-**Win:** Successfully establish an underhook
+#### Defending Player
+**Position:** Standing in T-position with overhook and partial torso control defense  
+**Objective:** Prevent bodylock, single leg, double leg, or hip-to-hip elevation while pursuing: (1) double inside control, (2) complete separation, or (3) front headlock redirection  
+**Constraints:** Stay upright (no intentional dropping to knees)  
+**Win:** (a) Establish double inside control (clear attacker underhook; both arms inside), OR (b) achieve complete separation (no chest/hip contact and attacker loses underhook), OR (c) secure front headlock before attacker lifts
+
+### 1.2 - [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-3.md)
+
+**Overview:** A progressive guard passing drill where the top player works through three different guard starting positions, staying standing to touch their shin to the bottom player's belt on the outside, while the bottom player tries to get the top player down to their hips and stand up.
+
+**Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
+
+**Position Progression:**
+Players start at Position 1 and progress to the next position after winning. When either player wins any position, switch roles.
+
+#### Top Player
+**Objective:** Touch your shin to your partner's belt on the outside of their legs  
+**Constraints:** Must stay standing throughout the attempt  
+**Win:** Successfully pass the guard with chest to chest or chest to back control
+
+#### Bottom Player
+**Objective:** Get the top player down to their hips and stand up  
+**Win:** Top player on hips and you on top
+
+**Starting Positions:**
+- Position 1: On your back with closed guard around top player's waist
+- Position 2: On your back in half guard with a knee shield
+- Position 3: Seated in butterfly guard with both feet inside top player's thighs
 
 ## Guard Drills
 
