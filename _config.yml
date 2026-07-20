@@ -3,6 +3,6 @@ title: Grappling Games
 description: A collection of training drills and games for grappling practice
 show_downloads: true
 github:
-  repository_url: https://github.com/mennlo/grappling-games
+  repository_url: https://github.com/lukasmenne/grappling-games
 plugins:
   - jekyll-remote-theme
