@@ -5,12 +5,12 @@ This class focuses on developing effective attacks and chokes from back control 
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Single Leg Control with Multiple Finish Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
-2. [HQ Position Passing Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill.md)
-3. [Back Control Escape Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
-4. [Back Control Arm Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-cross-grip.md)
-5. [Back Control Triangle and Joint Locks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-triangle-and-joint-locks.md)
-6. [Back Control Any Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
+1. [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+2. [HQ Position Passing Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill.md)
+3. [Back Control Escape Progression](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
+4. [Back Control Arm Pin](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-cross-grip.md)
+5. [Back Control Triangle and Joint Locks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-triangle-and-joint-locks.md)
+6. [Back Control Any Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -24,7 +24,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Single Leg Control with Multiple Finish Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+### 1.1 - [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
 
 **Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control, with multiple options for finishing the takedown.
 
@@ -40,7 +40,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Stay balanced and remove your leg from the situation by any means  
 **Win:** Successfully free your leg from the single leg control  
 
-### 1.2 - [HQ Position Passing Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill.md)
+### 1.2 - [HQ Position Passing Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill.md)
 
 **Overview:** A drill focusing on the Headquarters (HQ) passing position with one player standing and splitting the bottom player's legs.
 
@@ -60,7 +60,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Back Attack Drills
 
-### 2.1 - [Back Control Escape Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
+### 2.1 - [Back Control Escape Progression](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
 
 **Overview:** A progressive drill with three increasing levels of back control difficulty that the defender must escape from.
 
@@ -78,7 +78,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Attacking Player Position:** Sitting up chest to back with seatbelt grip, both hooks in, and can attempt chokes  
 **Defending Player Win:** Escape chest to back connection while defending choke attempts
 
-### 2.2 - [Back Control Arm Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-cross-grip.md)
+### 2.2 - [Back Control Arm Pin](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-cross-grip.md)
 
 **Overview:** A back control drill focusing on pinning the defending partner's arm using leg control while maintaining chest-to-back connection. The drill combines both cross grip and figure four variations, allowing the attacking player to work from either rolled position or full back control with both hooks.
 
@@ -94,7 +94,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Escape chest-to-back connection or prevent arm pin  
 **Win:** Escape chest-to-back connection (mount counts as escape) or prevent arm pin for the full round  
 
-### 2.3 - [Back Control Triangle and Joint Locks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-triangle-and-joint-locks.md)
+### 2.3 - [Back Control Triangle and Joint Locks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-triangle-and-joint-locks.md)
 
 **Overview:** A back control drill where the attacking partner works to set up triangles, shoulder locks, or elbow locks from back control, while the defending partner escapes back control and defends against active submission attempts.
 
@@ -110,7 +110,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Escape back control and defend against submission attempts  
 **Win:** Successfully escape back control and defend active submission attempts
 
-### 2.4 - [Back Control Any Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
+### 2.4 - [Back Control Any Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
 
 **Overview:** An advanced back control drill where the attacking partner can use any legal submission from back control while starting with a figure four grip.
 

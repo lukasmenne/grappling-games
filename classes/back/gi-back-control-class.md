@@ -3,12 +3,12 @@
 
 This class builds a complete gi back control game from standing entries through gi-specific submissions. Students develop underhook and bodylock entries, closed guard posture control, and a progressive back control sequence culminating in collar grip attacks. Each drill layers directly onto the next, connecting standing takedown threats to back control finishing.
 
-1. [Zombie Mode: Underhook and Single Leg Counter](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
-2. [Asymmetric Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/asymmetric-touch-to-bodylock.md)
-3. [Closed Guard Retention and Posture Breaking](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
-4. [Armbar Control and Escape](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
-5. [Hand Cover Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
-6. [Gi Choke from Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
+1. [Zombie Mode: Underhook and Single Leg Counter](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
+2. [Asymmetric Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/asymmetric-touch-to-bodylock.md)
+3. [Closed Guard Retention and Posture Breaking](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
+4. [Armbar Control and Escape](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
+5. [Hand Cover Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
+6. [Gi Choke from Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -23,7 +23,7 @@ This class builds a complete gi back control game from standing entries through 
 
 ## Standing Drills
 
-### 1.1 - [Zombie Mode: Underhook and Single Leg Counter](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
+### 1.1 - [Zombie Mode: Underhook and Single Leg Counter](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
 
 **Overview:** An advanced variation of the Zombie Mode drill where the defending player not only denies contact but looks to establish underhooks or secure single leg takedowns when the "zombie" player's arms are extended.
 
@@ -39,7 +39,7 @@ This class builds a complete gi back control game from standing entries through 
 **Objective:** Deny your partner's hands from making contact and look for opportunities to establish underhooks or secure a single leg takedown  
 **Win:** Successfully establish two underhook positions or secure two single legs (any combination)
 
-### 1.2 - [Asymmetric Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/asymmetric-touch-to-bodylock.md)
+### 1.2 - [Asymmetric Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/asymmetric-touch-to-bodylock.md)
 
 **Overview:** An asymmetric standing drill where one player works to establish a bodylock or single leg while the other player works to score touches behind the knee or force hands to the mat. This creates different strategic challenges for each role.
 
@@ -57,7 +57,7 @@ This class builds a complete gi back control game from standing entries through 
 
 ## Guard Work
 
-### 2.1 - [Closed Guard Retention and Posture Breaking](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
+### 2.1 - [Closed Guard Retention and Posture Breaking](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
 
 **Overview:** A closed guard drill focusing on the bottom player retaining closed guard and breaking the top player's posture, while the top player works to open the guard and establish dominant positioning. Advanced bottom players can look for sweep or submission opportunities.
 
@@ -75,7 +75,7 @@ This class builds a complete gi back control game from standing entries through 
 
 ## Back Control Drills
 
-### 3.1 - [Armbar Control and Escape](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
+### 3.1 - [Armbar Control and Escape](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
 
 **Overview:** A submission control drill where the top player starts in an armbar position and works to control, isolate, and straighten the arm, while the bottom player attempts to escape without being submitted.
 
@@ -91,7 +91,7 @@ This class builds a complete gi back control game from standing entries through 
 **Objective:** Escape from the armbar position using any available technique without being submitted  
 **Win:** Successfully escape the armbar position without getting submitted
 
-### 3.2 - [Hand Cover Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
+### 3.2 - [Hand Cover Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
 
 **Overview:** A back control drill focused on covering and controlling your partner's hands from chest-to-back position. If the back controller wraps an arm under the defender's neck or establishes a deep collar grip, partners immediately switch roles and reset.
 
@@ -108,7 +108,7 @@ This class builds a complete gi back control game from standing entries through 
 **Objective:** Protect your hands from being controlled while not attempting to escape  
 **Win:** Prevent your partner from controlling your hands for the entire round
 
-### 3.3 - [Gi Choke from Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
+### 3.3 - [Gi Choke from Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
 
 **Overview:** A gi-specific back control drill where the attacking partner must establish collar grips on both collars before attempting submissions. This drill emphasizes the importance of grip fighting and collar control in gi grappling from back positions.
 

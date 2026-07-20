@@ -5,13 +5,13 @@ This class focuses on developing effective attacks from the mount position with 
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Zombie Mode Hand Fighting](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode.md)
-2. [Zombie Mode Underhook and Single Leg Counter](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
-3. [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
-4. [Side Control Framing and Pinning](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-and-pinning.md)
-5. [Mount Control and Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
-6. [Mount Wrist Control to Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-arm-triangle.md)
-7. [Side Control to Mount Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
+1. [Zombie Mode Hand Fighting](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode.md)
+2. [Zombie Mode Underhook and Single Leg Counter](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
+3. [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+4. [Side Control Framing and Pinning](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-and-pinning.md)
+5. [Mount Control and Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
+6. [Mount Wrist Control to Arm Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-arm-triangle.md)
+7. [Side Control to Mount Arm Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
 
 **Total Drilling Time:** 37 minutes
 - Standing Drills: 15 minutes
@@ -26,7 +26,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Zombie Mode Hand Fighting](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode.md)
+### 1.1 - [Zombie Mode Hand Fighting](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode.md)
 
 **Overview:** A standing hand-fighting drill where one player (the "zombie") attempts to place their hands on their partner while the defending player focuses on denying any contact.
 
@@ -42,7 +42,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Deny your partner's hands from making any contact with your body  
 **Win:** Successfully prevent contact for the entire round  
 
-### 1.2 - [Zombie Mode Underhook and Single Leg Counter](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
+### 1.2 - [Zombie Mode Underhook and Single Leg Counter](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
 
 **Overview:** An advanced variation of the Zombie Mode drill where the defending player not only denies contact but looks to establish underhooks or single leg takedowns when the "zombie" player's arms are extended.
 
@@ -58,7 +58,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Deny your partner's hands from making contact and look for opportunities to wrap your arms around your partner (underhooks) or secure a single leg takedown  
 **Win:** Successfully establish an underhook position or secure a single leg  
 
-### 1.3 - [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+### 1.3 - [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
 
 **Overview:** A standing control drill where players compete to establish either upper body or lower body control by connecting their hands around their partner's body.
 
@@ -76,7 +76,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Ground Drills
 
-### 2.1 - [Side Control Framing and Pinning](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-and-pinning.md)
+### 2.1 - [Side Control Framing and Pinning](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-and-pinning.md)
 
 **Overview:** A pinning drill where the bottom player works to maintain frames at the hip and neck to prevent control, while the top player attempts to establish a closed loop around their head and arm.
 
@@ -92,7 +92,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Prevent the top player from establishing a crossface and underhook control  
 **Win:** Get your legs back in between you and your partner or successfully get on top  
 
-### 2.2 - [Mount Control and Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
+### 2.2 - [Mount Control and Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
 
 **Overview:** A drill focusing on maintaining top control while keeping the bottom player's arms isolated away from their body, which sets up various attacks including the arm triangle. The top player can transition between dominant positions as long as they stay out of guard.
 
@@ -107,7 +107,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Position:** On back with partner mounted on top, arms isolated with elbows away from ribs  
 **Win:** Successfully get both hands on the hips with no arms under the elbows or get to guard
 
-### 2.3 - [Mount Wrist Control to Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-arm-triangle.md)
+### 2.3 - [Mount Wrist Control to Arm Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-arm-triangle.md)
 
 **Overview:** A positional drill where the top player starts with the bottom player's wrist pinned to the mat and works to transition into an arm triangle while maintaining mount, while the bottom player works to recover guard or reverse the position.
 
@@ -123,7 +123,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Defend against the arm triangle setup and work to recover guard or reverse position  
 **Win:** Successfully recover guard or reverse the position. For big skill differences use the hands to the hips with no arms under win
 
-### 2.4 - [Side Control to Mounted Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
+### 2.4 - [Side Control to Mounted Arm Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
 
 **Overview:** A transitional drill focusing on advancing from side control to mount while setting up an arm triangle or arm-in ezekiel choke, with the bottom player having only limited frames to defend.
 

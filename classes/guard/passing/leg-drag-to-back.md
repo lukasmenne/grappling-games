@@ -5,12 +5,12 @@ This class focuses on guard passing techniques using the leg drag to transition 
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Standing Movement Control and Crack Stepping](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/standing-foot-sweep-practice.md)
-2. [Foot Movement and Ankle Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/foot-movement-and-ankle-touch.md)
-3. [Pocket Leg Drag to Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
-4. [Leg Drag Framing and Flattening](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/leg-drag-framing-and-flattening.md)
-5. [Leg Drag Pass vs Sweep and Stand Up](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/leg-drag-vs-sweep-and-stand-up.md)
-6. [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+1. [Standing Movement Control and Crack Stepping](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/standing-foot-sweep-practice.md)
+2. [Foot Movement and Ankle Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/foot-movement-and-ankle-touch.md)
+3. [Pocket Leg Drag to Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
+4. [Leg Drag Framing and Flattening](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/leg-drag-framing-and-flattening.md)
+5. [Leg Drag Pass vs Sweep and Stand Up](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/leg-drag-vs-sweep-and-stand-up.md)
+6. [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Standing Movement Control and Crack Stepping](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/standing-foot-sweep-practice.md)
+### 1.1 - [Standing Movement Control and Crack Stepping](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/standing-foot-sweep-practice.md)
 
 **Overview:** An asymmetric standing drill where one player works to control their partner's movement by positioning themselves at the "top of the triangle" between their opponent's legs, forcing them to step forward and backward across cracks or lines on the mat.
 
@@ -41,7 +41,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Maintain your foot positioning and avoid stepping on cracks or lines while staying engaged  
 **Win:** Avoid stepping on any cracks or lines for the full 3 minutes  
 
-### 1.2 - [Foot Movement and Ankle Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/foot-movement-and-ankle-touch.md)
+### 1.2 - [Foot Movement and Ankle Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/foot-movement-and-ankle-touch.md)
 
 **Overview:** A symmetrical standing drill where both players simultaneously work to move their partner around and off-balance them using foot sweeps and touches, while focusing on touching their partner's feet and ankles with the bottom of their own feet without being swept themselves.
 
@@ -53,7 +53,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Passing Drills
 
-### 2.1 - [Pocket Leg Drag to Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
+### 2.1 - [Pocket Leg Drag to Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
 
 **Overview:** An advanced leg drag setup drill where the bottom player starts with their foot in the "pocket" position and works to recover guard or sweep, while the top player controls the leg and establishes hip control.
 
@@ -69,7 +69,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get the bottom player's knees facing away from you, establish leg drag position, and control their hips  
 **Win:** Successfully establish leg drag position and maintain hip control for 3 seconds  
 
-### 2.2 - [Leg Drag Framing and Flattening](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/leg-drag-framing-and-flattening.md)  
+### 2.2 - [Leg Drag Framing and Flattening](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/leg-drag-framing-and-flattening.md)  
 
 **Overview:** A pinning drill focused on the bottom player maintaining frames and recovering guard from a leg drag position, while the top player works to get inside the frames and establish chest-to-chest or chest-to-back connection.
 
@@ -85,7 +85,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get inside your partner's frames and flatten them out to establish chest-to-chest or chest-to-back connection  
 **Win:** Successfully get inside the frames and establish chest-to-chest contact, or chest-to-back contact if they turn away  
 
-### 2.3 - [Leg Drag Pass vs Sweep and Stand Up](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/leg-drag-vs-sweep-and-stand-up.md)
+### 2.3 - [Leg Drag Pass vs Sweep and Stand Up](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/leg-drag-vs-sweep-and-stand-up.md)
 
 **Overview:** A guard passing drill where the bottom player starts with grips and works to sweep or stand up, while the top player focuses on fully completing a leg drag pass to achieve chest-to-chest or chest-to-back contact.
 
@@ -103,7 +103,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Back Control Drills
 
-### 3.1 - [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+### 3.1 - [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
 
 **Overview:** A back control drill focused on transitioning to and maintaining back control position from various starting positions and defending against common escapes.
 

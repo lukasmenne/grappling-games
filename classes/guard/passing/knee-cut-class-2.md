@@ -5,12 +5,12 @@ This class develops knee cut passing fundamentals and related passing concepts, 
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
-2. [Single Leg Control with Multiple Finish Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
-3. [Quarter Guard Overhook/Underhook Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-overhook-underhook-passing.md)
-4. [Knee Slice, Leg Weave, or X Pass Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
-5. [Standing to Knee Slice or Leg Weave Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/standing-to-knee-slice-leg-weave.md)
-6. [Knee Shield Half Guard Passing Options Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-shield-half-guard-passing-options.md)
+1. [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+2. [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+3. [Quarter Guard Overhook/Underhook Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-overhook-underhook-passing.md)
+4. [Knee Slice, Leg Weave, or X Pass Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
+5. [Standing to Knee Slice or Leg Weave Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/standing-to-knee-slice-leg-weave.md)
+6. [Knee Shield Half Guard Passing Options Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-shield-half-guard-passing-options.md)
 
 **Total Drilling Time:** 34 minutes
 - Standing Control: 10 minutes
@@ -24,7 +24,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Control Drills
 
-### 1.1 - [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+### 1.1 - [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 
 **Overview:** A competitive standing drill where both partners start with no connections and race to achieve a bodylock by completing three progressive touches: underhook, hand behind the knee, or Russian tie control.
 
@@ -35,7 +35,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Complete three touches (any combination of underhook, hand behind knee, or Russian tie) before establishing a bodylock, or bypass these requirements by shooting for a double leg takedown  
 **Win:** Successfully complete three touches and establish a bodylock, or successfully execute a double leg takedown  
 
-### 1.2 - [Single Leg Control with Multiple Finish Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+### 1.2 - [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
 
 **Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control, with multiple options for finishing the takedown.
 
@@ -53,7 +53,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Guard Passing Drills
 
-### 2.1 - [Quarter Guard Overhook/Underhook Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-overhook-underhook-passing.md)
+### 2.1 - [Quarter Guard Overhook/Underhook Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-overhook-underhook-passing.md)
 
 **Overview:** A focused drill on passing the quarter guard from an overhook/underhook or head and arm control position.
 
@@ -70,7 +70,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Win:** Underhooks removed, both elbows to ribs with nothing under them, and prevent top player from freeing their trapped leg  
 
 
-### 2.2 - [Knee Slice, Leg Weave, or X Pass Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
+### 2.2 - [Knee Slice, Leg Weave, or X Pass Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
 
 **Overview:** A drill starting from knee slice position with knee shield where the top player must commit to one of three passing options: knee slice, leg weave, or X pass.
 
@@ -86,7 +86,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Maintain knee shield, prevent the pass, and look for opportunities to recover guard or sweep  
 **Win:** Get both feet on opponent's hips, recover closed guard, complete any sweep to come on top, or stand up  
 
-### 2.3 - [Standing to Knee Slice or Leg Weave Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/standing-to-knee-slice-leg-weave.md)
+### 2.3 - [Standing to Knee Slice or Leg Weave Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/standing-to-knee-slice-leg-weave.md)
 
 **Overview:** A drill where the top player starts standing at the bottom player's feet and must establish either a knee slice or leg weave type position before completing the pass.
 
@@ -102,7 +102,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Prevent top player from establishing knee slice or leg weave position, or sweep when they commit  
 **Win:** Get both feet on opponent's hips, recover closed guard, complete any sweep to come on top, or stand up  
 
-### 2.4 - [Knee Shield Half Guard Passing Options Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-shield-half-guard-passing-options.md)
+### 2.4 - [Knee Shield Half Guard Passing Options Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-shield-half-guard-passing-options.md)
 
 **Overview:** A drill starting from knee shield half guard where the top player can choose between knee slice, weave pass, or leg weave smash pass to complete the pass.
 

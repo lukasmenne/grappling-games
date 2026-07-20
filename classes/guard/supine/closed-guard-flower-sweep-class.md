@@ -5,12 +5,12 @@ This class develops closed guard attack mechanics with a focus on the flower swe
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
-2. [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
-3. [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
+1. [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+2. [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+3. [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
 4. Flower Sweep Drilling (inline drill — no separate game file)
-5. [Closed Guard Flower Sweep and Submit](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-flower-sweep-and-submit.md)
-6. [Armbar Control and Escape](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
+5. [Closed Guard Flower Sweep and Submit](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-flower-sweep-and-submit.md)
+6. [Armbar Control and Escape](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -24,7 +24,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+### 1.1 - [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
 
 **Overview:** A standing control drill where players compete to establish either upper body or lower body control by connecting their hands around their partner's body.
 
@@ -40,7 +40,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Connect your hands around your partner's lower body (legs or hips)  
 **Win:** Successfully lock your hands around your partner's lower body  
 
-### 1.2 - [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+### 1.2 - [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
 
 **Overview:** A progressive drilling game where partners work through three different single leg positions, alternating roles as they achieve success in each position.
 
@@ -65,7 +65,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 ## Guard Drills
 
-### 2.1 - [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
+### 2.1 - [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
 
 **Overview:** A progressive guard passing drill where the top player works through three different guard starting positions, staying standing to touch their shin to the bottom player's belt on the outside, while the bottom player tries to get the top player down to their hips and stand up.
 
@@ -112,7 +112,7 @@ Use your free leg as a pendulum, swinging it to generate momentum and kick your 
 - The pendulum leg should swing low to high, driving through your partner's body
 - Once comfortable with the sequence, add light resistance and flow through the full sweep
 
-### 2.3 - [Closed Guard Flower Sweep and Submit](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-flower-sweep-and-submit.md)
+### 2.3 - [Closed Guard Flower Sweep and Submit](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-flower-sweep-and-submit.md)
 
 **Overview:** A closed guard drill where the bottom player starts with one of the top player's arms trapped to their chest, working to complete a sweep, submission, or back take, while the top player works to escape the arm trap and pass the guard to side control.
 
@@ -128,7 +128,7 @@ Use your free leg as a pendulum, swinging it to generate momentum and kick your 
 **Objective:** Escape the arm trap and pass the guard to side control  
 **Win:** Successfully pass the guard and establish side control
 
-### 2.4 - [Armbar Control and Escape](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
+### 2.4 - [Armbar Control and Escape](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
 
 **Overview:** A submission control drill where the top player starts in an armbar position and works to control, isolate, and straighten the arm, while the bottom player attempts to escape without being submitted.
 

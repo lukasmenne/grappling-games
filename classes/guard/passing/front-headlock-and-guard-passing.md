@@ -3,17 +3,17 @@
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Front Headlock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
-2. [Rear Standing Bodylock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
-3. [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
-4. [Spider Guard Prevention and Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-prevention-and-control.md)
-5. [Spider Guard Foot Pin and Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-and-sweep.md)
-6. [Side Framing and Flattening](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
-7. [Back Control Framing and Pinning](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-framing-and-pinning.md)
+1. [Front Headlock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
+2. [Rear Standing Bodylock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
+3. [T-Position to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
+4. [Spider Guard Prevention and Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-prevention-and-control.md)
+5. [Spider Guard Foot Pin and Sweep](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-and-sweep.md)
+6. [Side Framing and Flattening](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
+7. [Back Control Framing and Pinning](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-framing-and-pinning.md)
 
 ## Standing Drills
 
-### Standing 1 - [Front Headlock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
+### Standing 1 - [Front Headlock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
 
 **Overview:** A standing drill focusing on maintaining the front headlock position while controlling your opponent's head and upper body.
 
@@ -31,7 +31,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:**  
 **Win:** Successfully disconnect the hands and free your head from the front headlock  
 
-### Standing 2 - [Rear Standing Bodylock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
+### Standing 2 - [Rear Standing Bodylock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
 
 **Overview:** A standing drill focusing on controlling the opponent from a rear standing bodylock position, with the goal of forcing their hands to the mat while maintaining the bodylock.
 
@@ -49,7 +49,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:**  
 **Win:** Successfully break the bodylock or turn to face your partner
 
-### Standing 3 - [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
+### Standing 3 - [T-Position to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
 
 **Overview:** A standing drill focusing on establishing the front headlock position from a T-position with an underhook, with the goal of controlling the opponent and taking them down to their hands.
 
@@ -69,7 +69,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Drills
 
-### Guard 1 - [Spider Guard Prevention and Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-prevention-and-control.md)
+### Guard 1 - [Spider Guard Prevention and Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-prevention-and-control.md)
 
 **Overview:** A guard passing drill where the bottom player attempts to establish spider guard (either with sleeve grips and feet on biceps, or feet inside thighs with ankle/pant grips), while the top player works to prevent this and establish an HQ or outside camping position.
 
@@ -87,7 +87,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:** No finishing the pass to chest-to-chest; focus on controlling the hip line  
 **Win:** None (focus is on maintaining hip line control as long as possible)
 
-### Guard 2 - [Spider Guard Foot Pin and Sweep/Submit](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-and-sweep.md)
+### Guard 2 - [Spider Guard Foot Pin and Sweep/Submit](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-and-sweep.md)
 
 **Overview:** A spider guard drill where the bottom player starts with sleeve grips and feet on biceps, while the top player works to pin the bottom player's feet to the mat using hands or feet. The bottom player aims to sweep, submit, or establish leg connections.
 
@@ -107,7 +107,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Pinning Drills
 
-### Pinning 1 - [Side Framing and Flattening](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-and-flattening.md)
+### Pinning 1 - [Side Framing and Flattening](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-and-flattening.md)
 
 **Overview:** A pinning drill focused on the bottom player preventing being flattened out and maintaining frames, while the top player works to flatten, establish crossface, and secure an underhook.
 
@@ -125,7 +125,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:**  
 **Win:** Successfully flatten your partner and establish a crossface with underhook control  
 
-### Pinning 2 - [Side Control Framing and Pinning](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-and-pinning.md)
+### Pinning 2 - [Side Control Framing and Pinning](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-and-pinning.md)
 
 **Overview:** A pinning drill where the bottom player works to maintain frames at the hip and neck to prevent control and get back to guard, while the top player attempts to establish dominant crossface and underhook control.
 

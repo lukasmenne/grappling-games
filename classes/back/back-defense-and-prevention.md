@@ -5,12 +5,12 @@ This class focuses on developing defensive skills and prevention techniques agai
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
-2. [Rear Standing Bodylock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
-3. [Turtle Defense and Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
-4. [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
-5. [Back Control Escape Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
-6. [Back Control Any Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
+1. [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+2. [Rear Standing Bodylock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
+3. [Turtle Defense and Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
+4. [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+5. [Back Control Escape Progression](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
+6. [Back Control Any Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+### 1.1 - [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 
 **Overview:** A competitive standing drill where both partners start with no connections and race to achieve a bodylock by completing three progressive touches.
 
@@ -35,7 +35,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Complete three touches before establishing a bodylock, or bypass requirements with a double leg takedown  
 **Win:** Successfully complete three touches and establish a bodylock, or execute a double leg takedown
 
-### 1.2 - [Rear Standing Bodylock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
+### 1.2 - [Rear Standing Bodylock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
 
 **Overview:** A standing drill focusing on controlling from a rear bodylock position versus defending and escaping the bodylock.
 
@@ -53,7 +53,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Turtle and Hip Control Drills
 
-### 2.1 - [Turtle Defense and Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
+### 2.1 - [Turtle Defense and Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
 
 **Overview:** A turtle position drill where the defending player works to prevent hip control while the attacking player tries to establish dominance from turtle.
 
@@ -71,7 +71,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Back Control Defense Drills
 
-### 3.1 - [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+### 3.1 - [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
 
 **Overview:** A back control drill focused on transitioning to and maintaining back control position from various starting positions and defending against common escapes.
 
@@ -87,7 +87,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Prevent your partner from establishing back control with hooks and work to improve your position  
 **Win:** Turn to face your partner or successfully escape back to a neutral position
 
-### 3.2 - [Back Control Escape Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
+### 3.2 - [Back Control Escape Progression](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
 
 **Overview:** A progressive drill with three increasing levels of back control difficulty that the defender must escape from.
 
@@ -105,7 +105,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Attacking Player Position:** Sitting up chest to back with seatbelt grip, both hooks in, and can attempt chokes  
 **Defending Player Win:** Escape chest to back connection while defending choke attempts
 
-### 3.3 - [Back Control Any Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
+### 3.3 - [Back Control Any Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
 
 **Overview:** An advanced back control drill where the attacking partner can use any legal submission from back control while starting with a figure four grip.
 

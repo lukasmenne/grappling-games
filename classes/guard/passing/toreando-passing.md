@@ -3,18 +3,18 @@
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Underhook or Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
-2. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
-3. [Split Legs Knee Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-legs-knee-touch.md)
-4. [Seated Guard Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-control.md)
-5. [Toreando Leg Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/toreando-leg-control.md)
-6. [Seated Guard Toreando Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-toreando-pass.md)
-7. [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
-8. [Hand Cover Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
+1. [Underhook or Russian Tie Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
+2. [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+3. [Split Legs Knee Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-legs-knee-touch.md)
+4. [Seated Guard Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-control.md)
+5. [Toreando Leg Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/toreando-leg-control.md)
+6. [Seated Guard Toreando Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-toreando-pass.md)
+7. [Seatbelt Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
+8. [Hand Cover Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
 
 ## Standing Drills
 
-### Standing 1 - [Underhook or Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
+### Standing 1 - [Underhook or Russian Tie Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
 
 **Overview:** A standing drill focused on establishing and maintaining an underhook or Russian tie control position while preventing your partner from establishing their own control.
 
@@ -30,7 +30,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Prevent your partner from establishing control and work to gain your own underhook or Russian tie  
 **Win:** Break your partner's control and establish your own underhook or Russian tie  
 
-### Standing 2 - [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+### Standing 2 - [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 
 **Overview:** A competitive standing drill where both partners start with no connections and race to achieve a bodylock by completing three progressive touches: underhook, hand behind the knee, or Russian tie control.
 
@@ -42,7 +42,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Ground Work Drills
 
-### Ground Work 1 - [Split Legs Knee Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-legs-knee-touch.md)
+### Ground Work 1 - [Split Legs Knee Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-legs-knee-touch.md)
 
 **Overview:** A ground work drill where the top player works to split the bottom player's legs or get both legs on one side, while the bottom player tries to establish inside foot position and ankle control.
 
@@ -58,7 +58,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get your feet inside and establish control of at least one ankle  
 **Win:** Successfully get feet inside and grab at least one ankle  
 
-### Ground Work 2 - [Seated Guard Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-control.md)
+### Ground Work 2 - [Seated Guard Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-control.md)
 
 **Overview:** A guard drill focused on the bottom player working to come up on a single leg or put the top person's hands on the mat, while the top player works to flatten the bottom player.
 
@@ -76,7 +76,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Toreando Pass Work Drills
 
-### Toreando Pass Work 1 - [Toreando Leg Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/toreando-leg-control.md)
+### Toreando Pass Work 1 - [Toreando Leg Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/toreando-leg-control.md)
 
 **Overview:** A guard passing drill focused on controlling your partner's legs during the toreando pass while they work to recover guard with feet inside.
 
@@ -92,7 +92,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get both feet inside your partner's legs and grab their ankles, or get both feet inside their arms and grab both sleeves  
 **Win:** Successfully establish either position (feet inside legs with ankle grips or feet inside arms with sleeve grips)  
 
-### Toreando Pass Work 2 - [Seated Guard Toreando Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-toreando-pass.md)
+### Toreando Pass Work 2 - [Seated Guard Toreando Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-toreando-pass.md)
 
 **Overview:** Similar to the previous drill but starting from seated guard position, focusing on toreando passing mechanics against a seated opponent.
 
@@ -110,7 +110,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Pin Work Drills
 
-### Pin Work 1 - [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
+### Pin Work 1 - [Seatbelt Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
 
 **Overview:** A back control drill focused on establishing hooks from the seatbelt position while the bottom player works to escape the seatbelt.
 
@@ -126,7 +126,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Escape the seatbelt grip before your partner can establish hooks  
 **Win:** Successfully escape the seatbelt control  
 
-### Pin Work 2 - [Hand Cover Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
+### Pin Work 2 - [Hand Cover Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/hand-cover-back-control.md)
 
 **Overview:** A back control drill focused on covering and controlling your partner's hands from chest-to-back position, simulating hand control after a successful toreando pass.
 

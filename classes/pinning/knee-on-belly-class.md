@@ -5,12 +5,12 @@ This class develops the pathways into knee on belly from standing, builds knee o
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Knee Touch and Mat Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
-2. [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
-3. [Shin to Belt Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/shin-to-belt-passing.md)
-4. [Knee on Belly Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/knee-on-belly-transitions.md)
+1. [Knee Touch and Mat Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
+2. [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+3. [Shin to Belt Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/shin-to-belt-passing.md)
+4. [Knee on Belly Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/knee-on-belly-transitions.md)
 5. Knee on Belly Escape (light drilling - no game)
-6. [Knee on Belly to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/knee-on-belly-to-submission.md)
+6. [Knee on Belly to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/knee-on-belly-to-submission.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Entries: 18 minutes
@@ -27,7 +27,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Knee Touch and Mat Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
+### 1.1 - [Knee Touch and Mat Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
 
 **Overview:** A competitive standing drill where both partners race to touch behind their opponent's knee or force their opponent's hands to touch the mat. First to achieve three touches wins.
 
@@ -39,7 +39,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Win:** Successfully complete three touches (any combination of behind-knee touches or forcing hands to mat)
 
 
-### 1.2 - [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+### 1.2 - [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
 
 **Overview:** A progressive drilling game where partners work through three different single leg positions, alternating roles as they achieve success in each position.
 
@@ -66,7 +66,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 ## Guard Passing Drills
 
-### 2.1 - [Shin to Belt Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/shin-to-belt-passing.md)
+### 2.1 - [Shin to Belt Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/shin-to-belt-passing.md)
 
 **Overview:** A guard passing drill where the top player stays standing and works to touch their shin to the bottom player's belt on the outside of their legs, while the bottom player tries to get their feet inside and establish ankle control.
 
@@ -86,7 +86,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 ## Knee on Belly Drills
 
-### 3.1 - [Knee on Belly Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/knee-on-belly-transitions.md)
+### 3.1 - [Knee on Belly Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/knee-on-belly-transitions.md)
 
 **Overview:** A drill focused on maintaining knee on belly pressure and transitioning across the body, or escaping knee on belly back to guard or a reversal.
 
@@ -118,7 +118,7 @@ Key movements to drill:
 - Far-hand push on top player's hip as needed
 
 
-### 3.3 - [Knee on Belly to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/knee-on-belly-to-submission.md)
+### 3.3 - [Knee on Belly to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/knee-on-belly-to-submission.md)
 
 **Overview:** An advanced knee on belly drill where the top player works to isolate the bottom player's arms and secure submissions while staying outside the guard, while the bottom player focuses on escaping to guard or reversing position.
 

@@ -5,12 +5,12 @@ This class focuses on developing mount control, position advancement, and submis
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
-2. [Mount Single Arm Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-single-arm-isolation.md)
-3. [Mount S-Mount and Arm Triangle Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-s-mount-arm-triangle-progression.md)
-4. [Side Control to S-Mount and Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-to-s-mount-arm-triangle.md)
-5. [Stabilizing Pass to S-Mount and Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/stabilizing-pass-to-mount.md)
-6. [Headquarters Position Pass to Submissions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/headquarters-pass-to-submissions.md)
+1. [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+2. [Mount Single Arm Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-single-arm-isolation.md)
+3. [Mount S-Mount and Arm Triangle Progression](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-s-mount-arm-triangle-progression.md)
+4. [Side Control to S-Mount and Arm Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-to-s-mount-arm-triangle.md)
+5. [Stabilizing Pass to S-Mount and Arm Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/stabilizing-pass-to-mount.md)
+6. [Headquarters Position Pass to Submissions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/headquarters-pass-to-submissions.md)
 
 **Total Drilling Time:** 33 minutes
 - Standing Control Drills: 6 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Control Drills
 
-### 1.1 - [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+### 1.1 - [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 
 **Overview:** Both partners start with no connections progressing to a lock around the body by completing three progressive touches: underhook, hand behind the knee, or Russian tie control.
 
@@ -37,7 +37,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Mount Control and Submission Drills
 
-### 2.1 - [Mount Single Arm Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-single-arm-isolation.md)
+### 2.1 - [Mount Single Arm Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-single-arm-isolation.md)
 
 **Overview:** Maintain top arm control. Sucks for bottom player.
 
@@ -53,7 +53,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:** None  
 **Win:** Hands on the hips with no arms under the elbows or get to guard
 
-### 2.2 - [Mount S-Mount and Arm Triangle Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-s-mount-arm-triangle-progression.md)
+### 2.2 - [Mount S-Mount and Arm Triangle Progression](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-s-mount-arm-triangle-progression.md)
 
 **Overview:** Progress control to attack position.
 
@@ -72,7 +72,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Passing and Stabilization Drills
 
-### 3.1 - [Side Control to S-Mount and Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-to-s-mount-arm-triangle.md)
+### 3.1 - [Side Control to S-Mount and Arm Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-to-s-mount-arm-triangle.md)
 
 **Overview:** Progress to mount to attack position.
 
@@ -89,7 +89,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:** None  
 **Win:** Successfully get both knees in between you and your partner or establish closed guard
 
-### 3.2 - [Stabilizing Pass to S-Mount and Arm Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/stabilizing-pass-to-mount.md)
+### 3.2 - [Stabilizing Pass to S-Mount and Arm Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/stabilizing-pass-to-mount.md)
 
 **Overview:** Stabilize pass and progress to mount to attack position. Encourage to go for either a different position or the submission if they have already done so.
 
@@ -106,7 +106,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:** None  
 **Win:** Successfully get both feet back on partner's hips/biceps, establish closed guard, or stand up
 
-### 3.3 - [Headquarters Position Pass to Submissions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/headquarters-pass-to-submissions.md)
+### 3.3 - [Headquarters Position Pass to Submissions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/headquarters-pass-to-submissions.md)
 
 **Overview:** A drill starting from headquarters position (one leg in, one leg out) where the top player works to pass and advance to s-mount or arm triangle position, while the bottom player defends using various techniques including sweeps, submissions, back takes, or standing.
 

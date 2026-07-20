@@ -5,12 +5,12 @@ This class focuses on developing takedown defense through counter-attacks and es
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Zombie Mode 2: Underhook and Single Leg Counter](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
-2. [Underhook or Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
-3. [Shin Touch Targets](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-touch-targets.md)
-4. [Guard Pull to Headquarters](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-headquarters.md)
-5. [Tripod Sickle Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
-6. [Shin to Belt Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-to-belt-defense.md)
+1. [Zombie Mode 2: Underhook and Single Leg Counter](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
+2. [Underhook or Russian Tie Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
+3. [Shin Touch Targets](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-touch-targets.md)
+4. [Guard Pull to Headquarters](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-headquarters.md)
+5. [Tripod Sickle Sweep](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
+6. [Shin to Belt Defense](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-to-belt-defense.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -24,7 +24,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Zombie Mode 2: Underhook and Single Leg Counter](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
+### 1.1 - [Zombie Mode 2: Underhook and Single Leg Counter](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
 
 **Overview:** An advanced variation of the Zombie Mode drill where the defending player not only denies contact but looks to establish underhooks or secure single leg takedowns when the "zombie" player's arms are extended.
 
@@ -40,7 +40,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Deny your partner's hands from making contact and look for opportunities to wrap your arms around your partner (underhooks) or secure a single leg takedown  
 **Win:** Successfully establish an underhook position or secure a single leg  
 
-### 1.2 - [Underhook or Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
+### 1.2 - [Underhook or Russian Tie Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
 
 **Overview:** A standing drill focused on establishing and maintaining an underhook or Russian tie control position while preventing your partner from establishing their own control.
 
@@ -58,7 +58,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Drills
 
-### 2.1 - [Shin Touch Targets](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-touch-targets.md)
+### 2.1 - [Shin Touch Targets](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-touch-targets.md)
 
 **Overview:** A guard passing drill where the top player stays standing and works to touch their shin to specific target areas (belt outside legs, inside of near knee, or inside of far knee), while the bottom player tries to get their feet inside and establish ankle control.
 
@@ -74,7 +74,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get your feet inside your partner's legs and establish control of both ankles  
 **Win:** Successfully get feet inside and grab both ankles  
 
-### 2.2 - [Guard Pull to Headquarters](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-headquarters.md)
+### 2.2 - [Guard Pull to Headquarters](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-headquarters.md)
 
 **Overview:** A guard pulling drill where one player starts with grips and pulls guard while the other player works to immediately remove the guard puller's feet and establish headquarters position without going to their knees.
 
@@ -90,7 +90,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Remove the guard puller's feet as quickly as possible after they hit the ground and establish headquarters position  
 **Win:** Successfully establish headquarters position without going to your knees  
 
-### 2.3 - [Tripod Sickle Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
+### 2.3 - [Tripod Sickle Sweep](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
 
 **Overview:** A guard sweep drill where the bottom player starts with grips and works to execute tripod or sickle sweeps while maintaining ankle control and leg blocking, while the top player works to stay standing and strip grips.
 
@@ -106,7 +106,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Stay standing and work to strip grips and connections  
 **Win:** Focus on maintaining balance and removing grips, only win is if you can squat down into mount (if bottom player puts both legs through the middle)
 
-### 2.4 - [Shin to Belt Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-to-belt-defense.md)
+### 2.4 - [Shin to Belt Defense](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/shin-to-belt-defense.md)
 
 **Overview:** A guard defense drill where the bottom player starts with grips and works to prevent the top player from getting outside their legs, while the top player tries to achieve shin to belt contact on the outside.
 

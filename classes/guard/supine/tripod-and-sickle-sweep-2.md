@@ -5,12 +5,12 @@ This class focuses on advanced takedown defense through counter-attacks and esta
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
-2. [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
-3. [Guard Pull to Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
-4. [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
-5. [Tripod Sickle Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
-6. [Tripod vs Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-vs-passing.md)
+1. [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+2. [T-Position to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
+3. [Guard Pull to Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
+4. [HQ Position Passing Drill with Sweeps and Leg Pin](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
+5. [Tripod Sickle Sweep](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
+6. [Tripod vs Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-vs-passing.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -24,7 +24,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+### 1.1 - [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 
 **Overview:** A competitive standing drill where both partners start with no connections and race to achieve a bodylock by completing three progressive touches: underhook, hand behind the knee, or Russian tie control.
 
@@ -34,7 +34,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Complete three touches (any combination of underhook, hand behind knee, or Russian tie) before establishing a bodylock, or bypass these requirements by shooting for a double leg takedown  
 **Win:** Successfully complete three touches and establish a bodylock, or successfully execute a double leg takedown
 
-### 1.2 - [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
+### 1.2 - [T-Position to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
 
 **Overview:** A standing drill focusing on establishing the front headlock position from a T-position with an underhook, with the goal of controlling the opponent and taking them down to their hands.
 
@@ -52,7 +52,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Drills
 
-### 2.1 - [Guard Pull to Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
+### 2.1 - [Guard Pull to Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/guard-pull-to-pass.md)
 
 **Overview:** A guard pulling drill where one player starts with grips and pulls guard while the other player works to immediately remove the guard puller's feet and pass the guard without going to their knees.
 
@@ -68,7 +68,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Remove the guard puller's feet as quickly as possible after they hit the ground and pass the guard  
 **Win:** Successfully pass the guard and achieve chest to chest or chest to back contact  
 
-### 2.2 - [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
+### 2.2 - [HQ Position Passing Drill with Sweeps and Leg Pin](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
 
 **Overview:** A drill focusing on establishing and controlling the Headquarters (HQ) passing position with one player starting disconnected and working to get between the bottom player's knees.
 
@@ -87,7 +87,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ### ** Explain Tripod and Sickle sweep simply **
 
-### 2.3 - [Tripod Sickle Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
+### 2.3 - [Tripod Sickle Sweep](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-sickle-sweep.md)
 
 **Overview:** A guard sweep drill where the bottom player starts with grips and works to execute tripod or sickle sweeps while maintaining ankle control and leg blocking, while the top player works to stay standing and strip grips.
 
@@ -103,7 +103,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Stay standing and work to strip grips and connections  
 **Win:** Focus on maintaining balance and removing grips, only win is if you can squat down into mount (if bottom player puts both legs through the middle)
 
-### 2.4 - [Tripod vs Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-vs-passing.md)
+### 2.4 - [Tripod vs Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/tripod-vs-passing.md)
 
 **Overview:** A guard passing drill where the bottom player starts with grips and works to prevent the top player from getting outside their legs, while the top player tries to achieve a full guard pass finishing chest to chest or chest to back.
 

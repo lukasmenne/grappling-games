@@ -5,18 +5,18 @@ This class builds quarter guard passing from standing entry and single-leg defen
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Kimura Defense vs Single Leg Takedown](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
-2. [Single Leg Control with Multiple Finish Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
-3. [Quarter Guard Underhook Progression Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
-4. [Quarter Guard Overhook/Underhook Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-overhook-underhook-passing.md)
-5. [Quarter Guard Upright Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-upright-passing.md)
-6. [Half Guard Flattening and Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-flattening-and-passing.md)
-7. [Side Control Figure Four Attack and Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
-8. [Side Control to Mount/Back to Submission Chain](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-or-back-to-submission-chain.md)
+1. [Kimura Defense vs Single Leg Takedown](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
+2. [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+3. [Quarter Guard Underhook Progression Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
+4. [Quarter Guard Overhook/Underhook Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-overhook-underhook-passing.md)
+5. [Quarter Guard Upright Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-upright-passing.md)
+6. [Half Guard Flattening and Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-flattening-and-passing.md)
+7. [Side Control Figure Four Attack and Defense](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
+8. [Side Control to Mount/Back to Submission Chain](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-or-back-to-submission-chain.md)
 
 ## Standing and Single Leg Drills
 
-### 1.1 - [Kimura Defense vs Single Leg Takedown](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
+### 1.1 - [Kimura Defense vs Single Leg Takedown](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
 
 **Overview:** A drilling exercise where partners alternate between defending a single leg takedown using a kimura grip and sacrifice throw, and attacking with a single leg while defending against the kimura counter.
 
@@ -32,7 +32,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Push your partner's head towards the outside, reach both arms to the nearside, and connect a kimura grip. Hop closer, squat down, and execute a sacrifice throw so your partner rolls over and lands on their back. After the throw, turn to come on top while maintaining kimura control if possible  
 **Win:** Successfully execute the sacrifice throw and come on top, or escape the single leg with or without maintaining the kimura grip
 
-### 1.2 - [Single Leg Control with Multiple Finish Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+### 1.2 - [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
 
 **Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control, with multiple options for finishing the takedown.
 
@@ -50,7 +50,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Quarter Guard Passing Drills
 
-### 2.1 - [Quarter Guard Underhook Progression Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
+### 2.1 - [Quarter Guard Underhook Progression Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
 
 **Overview:** A progressive quarter guard passing game where the top player can start from either double underhooks or single underhook control and can change start options after each reset.
 
@@ -66,7 +66,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Clear underhook control, recover strong frames, and insert knees/elbows to recover guard or stand  
 **Win:** Remove underhook control and recover any form of guard, or stand up with separation
 
-### 2.2 - [Quarter Guard Upright Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-upright-passing.md)
+### 2.2 - [Quarter Guard Upright Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-upright-passing.md)
 
 **Overview:** A drill focusing on passing the quarter guard from an upright position without initial upper-body connections.
 
@@ -84,7 +84,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Finishing Drill
 
-### 3.1 - [Side Control Figure Four Attack and Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
+### 3.1 - [Side Control Figure Four Attack and Defense](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
 
 **Overview:** A drill focused on attacking from top side control with figure four controls while the bottom player works to defend and recover guard.
 
@@ -100,7 +100,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Defend against the figure four control and work to recover any form of guard  
 **Win:** Successfully escape the position and recover guard
 
-### 3.2 - [Side Control to Mount/Back to Submission Chain](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-or-back-to-submission-chain.md)
+### 3.2 - [Side Control to Mount/Back to Submission Chain](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-or-back-to-submission-chain.md)
 
 **Overview:** A chained advancement game where the top player flows from side control to mount or chest-to-back and then secures a controlled submission catch-and-release.
 

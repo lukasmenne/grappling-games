@@ -5,12 +5,12 @@ This class focuses on developing guillotine choke setups, head control mechanics
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
-2. [Guillotine Defense vs Single Leg](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/guillotine-defense-single-leg.md)
-3. [Closed Guard Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
-4. [Closed Guard Submission Attempts](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-submission-attempts.md)
-5. [Side Control Head and Arm Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
-6. [Mount Choke Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-choke-attacks.md)
+1. [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+2. [Guillotine Defense vs Single Leg](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/guillotine-defense-single-leg.md)
+3. [Closed Guard Guillotine](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
+4. [Closed Guard Submission Attempts](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-submission-attempts.md)
+5. [Side Control Head and Arm Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
+6. [Mount Choke Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-choke-attacks.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+### 1.1 - [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
 
 **Overview:** A ground-based drill focusing on maintaining control in the front headlock position while transitioning from side to side, as the defender works to establish guard.
 
@@ -41,7 +41,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Work to uncover your head and establish guard by getting your legs between you and your partner  
 **Win:** Uncover your head and successfully establish guard by getting your legs between you and your partner, OR connect to a leg and tip them down to their butt to come on top and free your head
 
-### 1.2 - [Guillotine Defense vs Single Leg](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/guillotine-defense-single-leg.md)
+### 1.2 - [Guillotine Defense vs Single Leg](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/guillotine-defense-single-leg.md)
 
 **Overview:** A drilling exercise where partners alternate between defending a single leg takedown using a guillotine choke grip and sacrifice throw, and attacking with a single leg while defending against the guillotine counter.
 
@@ -59,7 +59,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Drills
 
-### 2.1 - [Closed Guard Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
+### 2.1 - [Closed Guard Guillotine](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
 
 **Overview:** A closed guard drill where the attacker starts with a chin strap grip and works to connect their hands to establish either an arm-in or arm-out guillotine, while the defender focuses on preventing the hand connection and escaping the head control.
 
@@ -75,7 +75,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Fight to prevent your partner from connecting their hands and establishing either guillotine variation  
 **Win:** Successfully prevent the hand connection and escape the chin strap control  
 
-### 2.2 - [Closed Guard Submission Attempts](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-submission-attempts.md)
+### 2.2 - [Closed Guard Submission Attempts](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-submission-attempts.md)
 
 **Overview:** A closed guard drill where the bottom player works to finish submissions (kimura, guillotine) while the top player defends and works to escape to safe positions.
 
@@ -93,7 +93,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Top Control Drills
 
-### 3.1 - [Side Control Head and Arm Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
+### 3.1 - [Side Control Head and Arm Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
 
 **Overview:** A transitional drill focusing on advancing from side control to various head and arm attacks (arm triangle, darce, anaconda, or guillotine), with the bottom player having only limited frames to defend.
 
@@ -109,7 +109,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Use limited defensive resources to recover guard or reverse the position  
 **Win:** Successfully return to guard with control of at least one leg above the knee, or successfully reverse the position to become the top player
 
-### 3.2 - [Mount Choke Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-choke-attacks.md)
+### 3.2 - [Mount Choke Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-choke-attacks.md)
 
 **Overview:** A positional drill where the top player starts with mount and either the bottom player's wrist pinned to the mat or a hand in the collar, working to transition into various choke attacks (arm triangle, guillotine, or collar chokes), while the bottom player works to recover guard or reverse the position.
 

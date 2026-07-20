@@ -4,11 +4,11 @@
 This class focuses on front headlock recovery, breaking spider guard connections, passing to covered hips, and progressing into mount isolation and submissions. Existing game files are linked where available; the sit out drill is a class-only entry.
 
 1. Sit Out From Front Headlock
-2. [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
-3. [Spider Guard Foot Pin and Sweep/Submit](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-and-sweep.md)
-4. [Spider Guard Foot Pin to Covered Hips Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-to-covered-hips-pass.md)
-5. [Mount Control and Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
-6. [Progressive Mount Wrist Control to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-submission.md)
+2. [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+3. [Spider Guard Foot Pin and Sweep/Submit](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-and-sweep.md)
+4. [Spider Guard Foot Pin to Covered Hips Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-to-covered-hips-pass.md)
+5. [Mount Control and Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
+6. [Progressive Mount Wrist Control to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-submission.md)
 
 **Total Drilling Time:** 36 minutes
 - Front Headlock Drills: 12 minutes
@@ -39,7 +39,7 @@ This class focuses on front headlock recovery, breaking spider guard connections
 **Objective:** Follow the sit out, keep the head covered, and recover a controlling angle  
 **Win:** Keep the head covered through the sit out or transition to a dominant top position  
 
-### 1.2 - [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+### 1.2 - [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
 
 **Overview:** A ground-based drill focusing on maintaining control in the front headlock position while transitioning from side to side, as the defender works to establish guard.
 
@@ -57,7 +57,7 @@ This class focuses on front headlock recovery, breaking spider guard connections
 
 ## Spider Guard Passing Drills
 
-### 2.1 - [Spider Guard Foot Pin and Sweep/Submit](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-and-sweep.md)
+### 2.1 - [Spider Guard Foot Pin and Sweep/Submit](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-and-sweep.md)
 
 **Overview:** A spider guard drill where the bottom player starts with sleeve grips and feet on biceps, while the top player works to pin the bottom player's feet to the mat using hands or feet. The bottom player aims to sweep, submit, or establish leg connections.
 
@@ -73,7 +73,7 @@ This class focuses on front headlock recovery, breaking spider guard connections
 **Objective:** Break the spider guard connections and pin one or both of your partner's feet to the mat using your hands or feet  
 **Win:** Successfully pin one or both of your partner's feet to the mat for 3 seconds  
 
-### 2.2 - [Spider Guard Foot Pin to Covered Hips Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-to-covered-hips-pass.md)
+### 2.2 - [Spider Guard Foot Pin to Covered Hips Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/spider-guard-foot-pin-to-covered-hips-pass.md)
 
 **Overview:** A spider guard passing drill where the top player converts broken spider guard connections into a full pass with the bottom player's hips covered.
 
@@ -91,7 +91,7 @@ This class focuses on front headlock recovery, breaking spider guard connections
 
 ## Pinning and Submission Drills
 
-### 3.1 - [Mount Control and Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
+### 3.1 - [Mount Control and Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
 
 **Overview:** A drill focusing on maintaining top control while keeping the bottom player's arms isolated away from their body, which sets up various attacks including the arm triangle. The top player can transition between dominant positions as long as they stay out of guard.
 
@@ -107,7 +107,7 @@ This class focuses on front headlock recovery, breaking spider guard connections
 **Objective:** Recover both elbows, frame at the hips, or establish guard  
 **Win:** Successfully get both hands on the hips with no arms under the elbows or get to guard  
 
-### 3.2 - [Progressive Mount Wrist Control to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-submission.md)
+### 3.2 - [Progressive Mount Wrist Control to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-submission.md)
 
 **Overview:** A progressive drilling game starting from mount with wrist control where the top player works to maintain control and secure armbar or arm triangle submissions from any top position while staying out of guard.
 

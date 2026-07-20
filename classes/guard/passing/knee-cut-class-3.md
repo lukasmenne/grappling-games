@@ -5,12 +5,12 @@ This class advances knee cut passing concepts through single leg defense and qua
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Kimura Defense vs Single Leg Takedown](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
-2. [Single Leg Control with Multiple Finish Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
-3. [Quarter Guard Underhook Progression Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
-4. [Head Quarters to Knee Slice or Leg Weave Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-knee-slice-leg-weave.md)
-5. [Knee Slice, Leg Weave, or X Pass Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
-6. [Side Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
+1. [Kimura Defense vs Single Leg Takedown](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
+2. [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+3. [Quarter Guard Underhook Progression Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
+4. [Head Quarters to Knee Slice or Leg Weave Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-knee-slice-leg-weave.md)
+5. [Knee Slice, Leg Weave, or X Pass Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
+6. [Side Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing and Single Leg Work: 12 minutes
@@ -26,7 +26,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing and Single Leg Drills
 
-### 1.1 - [Kimura Defense vs Single Leg Takedown](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
+### 1.1 - [Kimura Defense vs Single Leg Takedown](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
 
 **Overview:** A drilling exercise where partners alternate between defending a single leg takedown using a kimura grip and sacrifice throw, and attacking with a single leg while defending against the kimura counter.
 
@@ -47,7 +47,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 - Start at controlled pace to ensure both partners understand the rolling mechanics
 - Tap early if the kimura creates discomfort
 
-### 1.2 - [Single Leg Control with Multiple Finish Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+### 1.2 - [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
 
 **Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control, with multiple options for finishing the takedown.
 
@@ -65,7 +65,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Guard Passing Drills
 
-### 2.1 - [Quarter Guard Underhook Progression Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
+### 2.1 - [Quarter Guard Underhook Progression Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
 
 **Overview:** A progressive quarter guard passing game where the top player can start each reset from either double underhooks or single underhook control.
 
@@ -81,7 +81,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Clear underhook control, recover strong frames, and insert knees/elbows to recover guard or stand  
 **Win:** Remove underhook control and recover any form of guard, or stand up with separation
 
-### 2.2 - [Head Quarters to Knee Slice or Leg Weave Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-knee-slice-leg-weave.md)
+### 2.2 - [Head Quarters to Knee Slice or Leg Weave Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-knee-slice-leg-weave.md)
 
 **Overview:** A drill starting from the Head Quarters (HQ) position where the top player must establish either a knee slice or leg weave position before completing the pass.
 
@@ -97,7 +97,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Prevent top player from establishing knee slice or leg weave position. Use frames, hip movement, and leg positioning to create distance or sweep opportunities  
 **Win:** Get both feet between partners thighs with double ankle grips, recover closed guard, complete any sweep to come on top, or stand up
 
-### 2.3 - [Knee Slice, Leg Weave, or X Pass Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
+### 2.3 - [Knee Slice, Leg Weave, or X Pass Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
 
 **Overview:** A drill starting from knee slice position with knee shield where the top player must commit to one of three passing options: knee slice, leg weave, or X pass.
 
@@ -115,7 +115,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Positional Control Drills
 
-### 3.1 - [Side Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
+### 3.1 - [Side Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
 
 **Overview:** A drill focused on maintaining and transitioning from side control, or escaping side control using movement and framing.
 

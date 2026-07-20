@@ -3,12 +3,12 @@
 
 This class builds a complete kneebar and toehold attack chain from standing single leg entries through guard passing positions to leg attack finishes. Students work single leg control from standing, develop inside position and leg entanglement mechanics from guard, drill kneebar and toehold catch positions, learn the knee slide entry to leg attack from half guard, and finish with a free-form half guard sparring game where both passing and submissions are live. Each drill layers onto the next, connecting standing leg control to grounded leg positioning to submission finishes.
 
-1. [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
-2. [Progressive Guard Passing 2](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-2.md)
-3. [Inside Position Shootout](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
-4. [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
-5. [Knee Slide to Leg Attack Entry](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/knee-slide-to-leg-attack.md)
-6. [Knee Shield Half Guard - Passing or Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-shield-half-guard-passing-or-submission.md)
+1. [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+2. [Progressive Guard Passing 2](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-2.md)
+3. [Inside Position Shootout](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
+4. [Kneebar and Toehold Catch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
+5. [Knee Slide to Leg Attack Entry](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/knee-slide-to-leg-attack.md)
+6. [Knee Shield Half Guard - Passing or Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-shield-half-guard-passing-or-submission.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 6 minutes
@@ -24,7 +24,7 @@ This class builds a complete kneebar and toehold attack chain from standing sing
 
 ## Standing Drills
 
-### 1.1 - [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+### 1.1 - [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
 
 **Overview:** A progressive drilling game where partners work through three different single leg positions, alternating roles as they achieve success in each position.
 
@@ -46,7 +46,7 @@ This class builds a complete kneebar and toehold attack chain from standing sing
 
 ## Guard Passing and Inside Position Drills
 
-### 2.1 - [Progressive Guard Passing 2](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-2.md)
+### 2.1 - [Progressive Guard Passing 2](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-2.md)
 
 **Overview:** A progressive guard passing drill where the top player works through three different guard starting positions, staying standing to touch their shin to the bottom player's belt on the outside, while the bottom player tries to get the top player down to their hips and stand up.
 
@@ -66,7 +66,7 @@ This class builds a complete kneebar and toehold attack chain from standing sing
 **Objective:** Get the top player down to their hips and stand up  
 **Win:** Top player on hips and you standing  
 
-### 2.2 - [Inside Position Shootout](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
+### 2.2 - [Inside Position Shootout](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
 
 **Overview:** A competitive leg entanglement drill where both players start seated with mixed leg positions, each holding their opponent's ankles. Both players race to establish inside position with their feet and entangle their opponent's leg with a hip connection.
 
@@ -79,7 +79,7 @@ This class builds a complete kneebar and toehold attack chain from standing sing
 
 ## Kneebar and Toehold Entry Drills
 
-### 3.1 - [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
+### 3.1 - [Kneebar and Toehold Catch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
 
 **Overview:** A leg attack drill where the attacking player starts with leg entanglement from a mounted position, then falls to the side to set up kneebar and toehold attacks, while the defender works to escape the leg entanglement and free their knee line.
 
@@ -97,7 +97,7 @@ This class builds a complete kneebar and toehold attack chain from standing sing
 **Objective:** Escape the leg entanglement and free your knee line when the attacker falls to the side  
 **Win:** Successfully escape the leg entanglement and free your knee line completely  
 
-### 3.2 - [Knee Slide to Leg Attack Entry](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/knee-slide-to-leg-attack.md)
+### 3.2 - [Knee Slide to Leg Attack Entry](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/knee-slide-to-leg-attack.md)
 
 **Overview:** A cooperative technical drill from top half guard where the top player practices sliding their outside knee across the belt line, underhooking the top leg, and pivoting to arrive facing the legs in a leg attack configuration. Bottom player holds a passive knee shield with no resistance.
 
@@ -113,7 +113,7 @@ This class builds a complete kneebar and toehold attack chain from standing sing
 
 ## Half Guard Integration
 
-### 4.1 - [Knee Shield Half Guard - Passing or Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-shield-half-guard-passing-or-submission.md)
+### 4.1 - [Knee Shield Half Guard - Passing or Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-shield-half-guard-passing-or-submission.md)
 
 **Overview:** A drill starting from knee shield half guard where the top player can choose between passing options or direct submission attacks to win. Expands on standard passing by allowing leg attack entries and other submissions as an alternative path to victory. Bottom player defends against passing and submission threats while looking for guard recovery or sweeps.
 

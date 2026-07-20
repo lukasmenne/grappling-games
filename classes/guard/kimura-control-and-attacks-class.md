@@ -5,12 +5,12 @@ This class develops kimura-based control concepts across standing, guard, and pi
 
 This class consists of six progressive drilling games that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
-2. [T-Position to Takedown Entries](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
-3. [Closed Guard Attack Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
-4. [Half Guard Kimura Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-kimura-control.md)
-5. [Side Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
-6. [Half Guard to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-to-submission.md)
+1. [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+2. [T-Position to Takedown Entries](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+3. [Closed Guard Attack Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
+4. [Half Guard Kimura Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-kimura-control.md)
+5. [Side Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
+6. [Half Guard to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-to-submission.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of six progressive drilling games that build upon each other
 
 ## Standing Drills
 
-### 1.1 - [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+### 1.1 - [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
 
 **Overview:** A ground-based drill focusing on maintaining control in the front headlock position while transitioning from side to side, as the defender works to establish guard.
 
@@ -41,7 +41,7 @@ This class consists of six progressive drilling games that build upon each other
 **Objective:** Work to uncover your head and establish guard by getting your legs between you and your partner  
 **Win:** Uncover your head and successfully establish guard by getting your legs between you and your partner, OR connect to a leg and tip them down to their butt to come on top and free your head
 
-### 1.2 - [T-Position to Takedown Entries](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+### 1.2 - [T-Position to Takedown Entries](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
 
 **Overview:** A standing drill focusing on transitioning from a T-position underhook to dominant body control. The attacker looks to secure a bodylock (front or back), pick up a single leg, pick up a double leg, or achieve tight hip-to-hip connection and lift the defender off the ground.
 
@@ -61,7 +61,7 @@ This class consists of six progressive drilling games that build upon each other
 
 ## Guard Drills
 
-### 2.1 - [Closed Guard Attack Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
+### 2.1 - [Closed Guard Attack Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
 
 **Overview:** A closed guard drill where the bottom player works to establish multiple offensive control positions while the top player defends and maintains posture or starts passing.
 
@@ -77,7 +77,7 @@ This class consists of six progressive drilling games that build upon each other
 **Objective:** Stand up with proper posture and open the closed guard or split your partner's legs to establish half guard  
 **Win:** Successfully stand up while maintaining good posture and open the closed guard or transition to half guard position
 
-### 2.2 - [Half Guard Kimura Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-kimura-control.md)
+### 2.2 - [Half Guard Kimura Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-kimura-control.md)
 
 **Overview:** A focused drill on controlling and passing half guard using kimura grip control, where the top player must first establish the kimura grip and then use that control to either finish the submission or facilitate the pass.
 
@@ -96,7 +96,7 @@ This class consists of six progressive drilling games that build upon each other
 
 ## Pinning Drills
 
-### 3.1 - [Side Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
+### 3.1 - [Side Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
 
 **Overview:** A drill focused on maintaining and transitioning from side control, or escaping side control using movement and framing.
 
@@ -112,7 +112,7 @@ This class consists of six progressive drilling games that build upon each other
 **Objective:** Break the chest-to-chest connection using movement and framing  
 **Win:** Bring your feet or knees between you and your partner, OR reverse the position
 
-### 3.2 - [Half Guard to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-to-submission.md)
+### 3.2 - [Half Guard to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-to-submission.md)
 
 **Overview:** A focused drill on passing half guard from an over-the-hips control position, with the top player working to advance position and achieve upper body submissions from any position outside of full guard.
 

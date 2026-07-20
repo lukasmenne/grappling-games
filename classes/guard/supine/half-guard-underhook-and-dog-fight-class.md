@@ -5,12 +5,12 @@ This class keeps the same foundational progression from the half guard passing c
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Grip Fighting - Inside Position Underhook/Bodylock Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-bodylock-finish.md)
-2. [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
-3. [HQ to Half Guard Establishment](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-to-half-guard-establishment.md)
+1. [Grip Fighting - Inside Position Underhook/Bodylock Finish](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-bodylock-finish.md)
+2. [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+3. [HQ to Half Guard Establishment](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-to-half-guard-establishment.md)
 4. Underhook Development from Knee Shield Half Guard (Drilling Section)
-5. [Half Guard Underhook Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-underhook-battle.md)
-6. [Dog Fight: Pull Guard or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/dog-fight-pull-guard-or-pass.md)
+5. [Half Guard Underhook Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-underhook-battle.md)
+6. [Dog Fight: Pull Guard or Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/dog-fight-pull-guard-or-pass.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Control: 12 minutes  
@@ -25,7 +25,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Control Drills
 
-### 1.1 - [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-bodylock-finish.md)
+### 1.1 - [Grip Fighting - Inside Position Underhook Finish](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-bodylock-finish.md)
 
 **Overview:** A standing drill focused on establishing inside position through strategic grip fighting, working to obtain an effective underhook or secure a bodylock.
 
@@ -36,7 +36,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Target grips on wrists, elbows or head, try to obtain inside position with arms and head position in an effort to get an effective underhook or secure a bodylock  
 **Win:** Get an effective underhook OR secure a bodylock (front or back)
 
-### 1.2 - [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+### 1.2 - [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
 
 **Overview:** A standing control drill where players compete to establish either upper body or lower body control by connecting their hands around their partner's body.
 
@@ -54,7 +54,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Guard Entry and Underhook Development
 
-### 2.1 - [HQ to Half Guard Establishment](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-to-half-guard-establishment.md)
+### 2.1 - [HQ to Half Guard Establishment](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-to-half-guard-establishment.md)
 
 **Overview:** A drill focusing on transitioning from Headquarters (HQ) passing position to establishing half guard with hip control and coverage.
 
@@ -76,7 +76,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Half Guard and Dog Fight Decision-Making
 
-### 3.1 - [Half Guard Underhook Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-underhook-battle.md)
+### 3.1 - [Half Guard Underhook Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-underhook-battle.md)
 
 **Overview:** A focused drill on the critical underhook battle in half guard, where both players have established underhooks and are fighting for positional dominance.
 
@@ -92,7 +92,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Use your underhook and movement to create space, improve your position, or gain a dominant position  
 **Win:** Get both feet on the top player's hips, establish closed guard, sweep and come on top, take the back, or stand up
 
-### 3.2 - [Dog Fight: Pull Guard or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/dog-fight-pull-guard-or-pass.md)
+### 3.2 - [Dog Fight: Pull Guard or Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/dog-fight-pull-guard-or-pass.md)
 
 **Overview:** A symmetric drill where both players start in dog fight and race to either pull guard with upper body connection or knock their partner over, clear the legs, and secure head-and-arm control.
 

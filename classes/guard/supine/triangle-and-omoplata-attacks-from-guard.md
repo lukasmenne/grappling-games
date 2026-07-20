@@ -5,12 +5,12 @@ This class focuses on developing triangle and omoplata submissions from guard po
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
-2. [Closed Guard Retention and Posture Breaking](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
-3. [Closed Guard Overhook Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
-4. [Collar Sleeve Guard Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/collar-sleeve-guard-control.md)
-5. [Triangle Position Control and Finishing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
-6. [Triangle and Omoplata Submission Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-and-omoplata-submission-attacks.md)
+1. [Single Leg Control and Defense with Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
+2. [Closed Guard Retention and Posture Breaking](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
+3. [Closed Guard Overhook Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
+4. [Collar Sleeve Guard Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/collar-sleeve-guard-control.md)
+5. [Triangle Position Control and Finishing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
+6. [Triangle and Omoplata Submission Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-and-omoplata-submission-attacks.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Control Drills: 6 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Control Drills
 
-### 1.1 - [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
+### 1.1 - [Single Leg Control and Defense with Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
 
 **Overview:** A standing drill focusing on single leg control progression to bodylock while the defending player works to prevent the takedown and potentially counter with their own attacks.
 
@@ -43,7 +43,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Control and Setup Drills
 
-### 2.1 - [Closed Guard Retention and Posture Breaking](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
+### 2.1 - [Closed Guard Retention and Posture Breaking](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
 
 **Overview:** A closed guard drill focusing on the bottom player retaining closed guard and breaking the top player's posture, while the top player works to open the guard and establish dominant positioning.
 
@@ -59,7 +59,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Open the closed guard and stuff a leg for headquarters position, or get both legs on one side of your body  
 **Win:** Successfully open the guard and establish headquarters position or get both legs to one side
 
-### 2.2 - [Closed Guard Overhook Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
+### 2.2 - [Closed Guard Overhook Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
 
 **Overview:** A closed guard drill focusing on the bottom player maintaining an overhook control with a hip out position, working toward sweeps or submissions, while the top player attempts to free their arm or split the legs to half guard.
 
@@ -75,7 +75,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Free your trapped arm or split your partner's legs to establish half guard  
 **Win:** Successfully free your arm from the overhook or transition to half guard position
 
-### 2.3 - [Collar Sleeve Guard Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/collar-sleeve-guard-control.md)
+### 2.3 - [Collar Sleeve Guard Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/collar-sleeve-guard-control.md)
 
 **Overview:** A collar sleeve guard drill focusing on the bottom player maintaining collar and sleeve grips with good guard position, working toward sweeps or submissions, while the top player attempts to break grips or split the legs to half guard.
 
@@ -93,7 +93,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Triangle and Omoplata Specific Drills
 
-### 3.1 - [Triangle Position Control and Finishing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
+### 3.1 - [Triangle Position Control and Finishing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
 
 **Overview:** A triangle-specific drill where the bottom player starts with a loose leg loop around the top player's head and arm. The bottom player works to maintain the position, break the top player's head down, and advance to a tight triangle, omoplata, or sweep.
 
@@ -109,7 +109,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get both arms inside or outside the loop, or completely free your head and arm from the triangle position  
 **Win:** Successfully get both arms to the inside/outside of the triangle or completely escape the position
 
-### 3.2 - [Triangle and Omoplata Submission Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-and-omoplata-submission-attacks.md)
+### 3.2 - [Triangle and Omoplata Submission Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-and-omoplata-submission-attacks.md)
 
 **Overview:** A submission-focused guard drill where the bottom player starts in closed guard or collar sleeve guard and works to submit or sweep with triangle or omoplata attacks, while the top player defends and attempts to pass guard.
 

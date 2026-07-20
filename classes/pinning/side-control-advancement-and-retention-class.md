@@ -5,12 +5,12 @@ This class develops the pathways into side control from standing, builds retenti
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Underhook Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
-2. [T-Position Takedown Pathways](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
-3. [Side Framing and Flattening](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
-4. [Side Control Underhook Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-underhook-battle.md)
-5. [Side Control to Mount Stabilization](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-transition.md)
-6. [Side Control to Mount/Back to Submission Chain](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-or-back-to-submission-chain.md)
+1. [Underhook Russian Tie Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
+2. [T-Position Takedown Pathways](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+3. [Side Framing and Flattening](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
+4. [Side Control Underhook Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-underhook-battle.md)
+5. [Side Control to Mount Stabilization](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-transition.md)
+6. [Side Control to Mount/Back to Submission Chain](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-or-back-to-submission-chain.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Entries: 12 minutes  
@@ -24,7 +24,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Underhook Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
+### 1.1 - [Underhook Russian Tie Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
 
 **Overview:** A standing drill focused on establishing and maintaining an underhook or Russian tie control position while preventing your partner from establishing their own control.
 
@@ -36,7 +36,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Win:** Maintain the control position or successfully pick up a single leg from either control position 
 
 
-### 1.2 - [T-Position Takedown Pathways](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+### 1.2 - [T-Position Takedown Pathways](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
 
 **Overview:** A standing drill focusing on transitioning from a T-position underhook to dominant body control. The attacker looks to secure a bodylock (front or back), pick up a single leg, pick up a double leg, or achieve tight hip-to-hip connection and lift the defender off the ground. The defender works to deny body connection and choose one of three tactical branches.
 
@@ -54,7 +54,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Pinning Drills
 
-### 2.1 - [Side Framing and Flattening](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
+### 2.1 - [Side Framing and Flattening](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
 
 **Overview:** A pinning drill focused on the bottom player preventing being flattened out and maintaining frames, while the top player works to flatten, establish crossface, and secure an underhook.
 
@@ -70,7 +70,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Stay on top, flatten your partner, and establish a crossface with underhook control  
 **Win:** Successfully flatten your partner and establish a crossface with underhook control  
 
-### 2.2 - [Side Control Underhook Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-underhook-battle.md)
+### 2.2 - [Side Control Underhook Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-underhook-battle.md)
 
 **Overview:** A pinning game focused on the critical battle when the bottom player has earned an underhook and a hip frame but is still flat. The top player must neutralize the underhook threat before the bottom player can create an escape pathway.
 
@@ -86,7 +86,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Shut down the underhook threat, flatten and consolidate dominant control pathways  
 **Win:** (a) Establish solid crossface + underhook control, OR (b) transition to chest-to-back with seatbelt grip
 
-### 2.3 - [Side Control to Mount Stabilization](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-transition.md)
+### 2.3 - [Side Control to Mount Stabilization](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-transition.md)
 
 **Overview:** A positional advancement game focused on the top player flowing from side control to a stabilized mount position, while the bottom player aims to break the advancement early through guard recovery, reversal, or structured turtle.
 
@@ -102,7 +102,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Disrupt mount advancement - maintain/rebuild frames, create hip escape angles, recover guard, reverse, or build structured turtle  
 **Win:** (a) Reguard with at least control above the knee (no quarter guard), OR (b) reverse and come on top, OR (c) build to turtle with back uncovered
 
-### 2.4 - [Side Control to Mount/Back to Submission Chain](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-or-back-to-submission-chain.md)
+### 2.4 - [Side Control to Mount/Back to Submission Chain](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-mount-or-back-to-submission-chain.md)
 
 **Overview:** A chained advancement game: the top player must flow from side control to either mount or chest-to-back and then secure a controlled submission catch-and-release. The bottom player works to interrupt links in the chain—preventing positional advancement or breaking submission attempts.
 

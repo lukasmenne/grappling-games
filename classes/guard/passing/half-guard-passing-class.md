@@ -5,12 +5,12 @@ This class develops the fundamentals of half guard passing, starting with standi
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Grip Fighting - Inside Position Underhook/Bodylock Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-bodylock-finish.md)
-2. [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
-3. [HQ to Half Guard Establishment](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-to-half-guard-establishment.md)
-4. [Half Guard Underhook Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-underhook-battle.md)
-5. [Half Guard Hip-Facing Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-hip-facing-pass.md)
-6. [Half Guard Knee Shield to Mount Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-knee-shield-to-mount-pass.md)
+1. [Grip Fighting - Inside Position Underhook/Bodylock Finish](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-bodylock-finish.md)
+2. [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+3. [HQ to Half Guard Establishment](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-to-half-guard-establishment.md)
+4. [Half Guard Underhook Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-underhook-battle.md)
+5. [Half Guard Hip-Facing Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-hip-facing-pass.md)
+6. [Half Guard Knee Shield to Mount Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-knee-shield-to-mount-pass.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Control: 12 minutes  
@@ -25,7 +25,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Control Drills
 
-### 1.1 - [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-bodylock-finish.md)
+### 1.1 - [Grip Fighting - Inside Position Underhook Finish](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-bodylock-finish.md)
 
 **Overview:** A standing drill focused on establishing inside position through strategic grip fighting, working to obtain an effective underhook or secure a bodylock.
 
@@ -36,7 +36,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Target grips on wrists, elbows or head, try to obtain inside position with arms and head position in an effort to get an effective underhook or secure a bodylock  
 **Win:** Get an effective underhook OR secure a bodylock (front or back)
 
-### 1.2 - [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+### 1.2 - [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
 
 **Overview:** A standing control drill where players compete to establish either upper body or lower body control by connecting their hands around their partner's body.
 
@@ -54,7 +54,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Passing Drills
 
-### 2.1 - [HQ to Half Guard Establishment](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-to-half-guard-establishment.md)
+### 2.1 - [HQ to Half Guard Establishment](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-to-half-guard-establishment.md)
 
 **Overview:** A drill focusing on transitioning from Headquarters (HQ) passing position to establishing half guard with hip control and coverage.
 
@@ -72,7 +72,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Half Guard Passing Drills
 
-### 3.1 - [Half Guard Underhook Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-underhook-battle.md)
+### 3.1 - [Half Guard Underhook Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-underhook-battle.md)
 
 **Overview:** A focused drill on the critical underhook battle in half guard, where both players have established underhooks and are fighting for positional dominance.
 
@@ -88,7 +88,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Use your underhook and movement to create space, improve your position, or gain a dominant position  
 **Win:** Get both feet on the top player's hips, establish closed guard, sweep and come on top, take the back, or stand up  
 
-### 3.2 - [Half Guard Hip-Facing Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-hip-facing-pass.md)
+### 3.2 - [Half Guard Hip-Facing Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-hip-facing-pass.md)
 
 **Overview:** A focused drill on passing half guard from a hip-facing position where the top player's hips are positioned inside the bottom player's elbows, working to flatten and pass while maintaining this advantageous angle.
 
@@ -104,7 +104,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Use movement and frames to create space and improve your position  
 **Win:** Get both feet on the top player's hips, establish closed guard, or sweep and come on top
 
-### 3.3 - [Half Guard Knee Shield to Mount Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-knee-shield-to-mount-pass.md)
+### 3.3 - [Half Guard Knee Shield to Mount Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-knee-shield-to-mount-pass.md)
 
 **Overview:** A focused drill on passing half guard when the bottom player has established a knee shield, with the top player working to neutralize the frame and advance to mount position.
 

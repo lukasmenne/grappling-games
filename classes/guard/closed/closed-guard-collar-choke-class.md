@@ -5,12 +5,12 @@ This class focuses on developing collar choke attacks and defensive awareness fr
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Front Headlock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
-2. [Closed Guard Collar Choke Grip Setup](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-grip-setup.md)
-3. [Closed Guard Collar Choke or Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-or-sweep.md)
-4. [Mount Collar Choke or Back Take](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-collar-choke-or-back-take.md)
-5. [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
-6. [Gi Choke from Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
+1. [Front Headlock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
+2. [Closed Guard Collar Choke Grip Setup](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-grip-setup.md)
+3. [Closed Guard Collar Choke or Sweep](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-or-sweep.md)
+4. [Mount Collar Choke or Back Take](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-collar-choke-or-back-take.md)
+5. [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+6. [Gi Choke from Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 6 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Front Headlock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
+### 1.1 - [Front Headlock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
 
 **Overview:** A standing drill focusing on maintaining the front headlock position while controlling your opponent's head and upper body
 
@@ -43,7 +43,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Closed Guard Drills
 
-### 2.1 - [Closed Guard Collar Choke Grip Setup](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-grip-setup.md)
+### 2.1 - [Closed Guard Collar Choke Grip Setup](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-grip-setup.md)
 
 **Overview:** A closed guard drill where the bottom player works to establish collar choke grips and head-to-head control while the top player defends and works to open the guard
 
@@ -59,7 +59,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Open the guard and get to half guard (if on knees) or split your partner's legs (if standing)  
 **Win:** Successfully open the guard and transition to half guard (if on knees) or split the legs (if standing)
 
-### 2.2 - [Closed Guard Collar Choke or Sweep](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-or-sweep.md)
+### 2.2 - [Closed Guard Collar Choke or Sweep](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-collar-choke-or-sweep.md)
 
 **Overview:** A closed guard drill where the bottom player works to secure collar chokes or execute sweeps, starting with one hand in the collar and partner's posture broken
 
@@ -77,7 +77,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Pinning Drills
 
-### 3.1 - [Mount Collar Choke or Back Take](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-collar-choke-or-back-take.md)
+### 3.1 - [Mount Collar Choke or Back Take](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-collar-choke-or-back-take.md)
 
 **Overview:** A mount control drill where the top player works to secure a collar choke or take the back, starting with one hand in the collar
 
@@ -93,7 +93,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get back to guard with at least one of the top player's legs controlled above the knee, or roll them over and become the top player  
 **Win:** Successfully return to guard with control of at least one leg above the knee, or successfully reverse the position to become the top player
 
-### 3.2 - [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+### 3.2 - [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
 
 **Overview:** A back control drill focused on transitioning to and maintaining back control position from various starting positions and defending against common escapes
 
@@ -109,7 +109,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Prevent your partner from establishing back control with hooks and work to improve your position  
 **Win:** Turn to face your partner or successfully escape back to a neutral position
 
-### 3.3 - [Gi Choke from Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
+### 3.3 - [Gi Choke from Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
 
 **Overview:** A gi-specific back control drill where the attacking partner must establish collar grips before attempting submissions, emphasizing grip fighting and collar control
 

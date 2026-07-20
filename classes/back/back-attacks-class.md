@@ -5,12 +5,12 @@ This class develops back control attacks through progressive standing games, gua
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Knee Touch and Mat Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
-2. [Asymmetric Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/asymmetric-touch-to-bodylock.md)
-3. [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
-4. [Back Control Escape Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
+1. [Knee Touch and Mat Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
+2. [Asymmetric Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/asymmetric-touch-to-bodylock.md)
+3. [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
+4. [Back Control Escape Progression](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
 5. Bow and Arrow Choke Drill
-6. [Back Control Any Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
+6. [Back Control Any Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Knee Touch and Mat Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
+### 1.1 - [Knee Touch and Mat Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
 
 **Overview:** A competitive standing drill where both partners race to touch behind their opponent's knee or force their opponent's hands to touch the mat. First to achieve three touches wins.
 
@@ -35,7 +35,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Touch behind your partner's knee or get their hands to touch the mat  
 **Win:** Successfully complete three touches (any combination of behind-knee touches or forcing hands to mat)
 
-### 1.2 - [Asymmetric Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/asymmetric-touch-to-bodylock.md)
+### 1.2 - [Asymmetric Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/asymmetric-touch-to-bodylock.md)
 
 **Overview:** An asymmetric standing drill where one player works to establish a bodylock while the other player works to score touches behind the knee or force hands to the mat.
 
@@ -53,7 +53,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Passing
 
-### 2.1 - [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
+### 2.1 - [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
 
 **Overview:** A progressive guard passing drill where the top player works through three different guard starting positions, staying standing to touch their shin to the bottom player's belt on the outside, while the bottom player tries to get the top player down to their hips and stand up.
 
@@ -75,7 +75,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Back Control Drills
 
-### 3.1 - [Back Control Escape Progression](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
+### 3.1 - [Back Control Escape Progression](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-escape-progression.md)
 
 **Overview:** A progressive drill with three increasing levels of back control difficulty that the defender must escape from, building defensive skills systematically from basic to advanced positions.
 
@@ -102,7 +102,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Position:** Back control with both hooks in and seatbelt grip established
 
 
-### 3.3 - [Back Control Any Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
+### 3.3 - [Back Control Any Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
 
 **Overview:** An advanced back control drill where the attacking partner can use any legal submission from back control while starting with a figure four grip. This drill allows for creative submission attempts and advanced back control techniques.
 

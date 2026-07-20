@@ -3,16 +3,16 @@
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Back Control to Takedown](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/back-control-to-takedown.md)
-2. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
-3. [Closed Guard Base Disruption](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
-4. [Closed Guard Control vs Standing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-control-vs-standing.md)
-5. [Closed Guard Overhook Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
-6. [Closed Guard to Open Guard Transition](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-to-open-guard-transition.md)
+1. [Back Control to Takedown](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/back-control-to-takedown.md)
+2. [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+3. [Closed Guard Base Disruption](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
+4. [Closed Guard Control vs Standing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-control-vs-standing.md)
+5. [Closed Guard Overhook Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
+6. [Closed Guard to Open Guard Transition](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-to-open-guard-transition.md)
 
 ## Standing Drills
 
-### Standing 1 - [Back Control to Takedown](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/back-control-to-takedown.md)
+### Standing 1 - [Back Control to Takedown](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/back-control-to-takedown.md)
 
 **Overview:** A standing drill where one partner starts with chest-to-back control and works to force their partner's hand to the mat before attempting a single leg or head and arm control.
 
@@ -28,7 +28,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Maintain your base and escape the back control  
 **Win:** Successfully escape the back control
 
-### Standing 2 - [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+### Standing 2 - [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 
 **Overview:** A competitive standing drill where both partners start with no connections and race to achieve a bodylock by completing three progressive touches: underhook, hand behind the knee, or Russian tie control.
 
@@ -40,7 +40,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Closed Guard Drills
 
-### Guard 1 - [Closed Guard Base Disruption](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
+### Guard 1 - [Closed Guard Base Disruption](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
 
 **Overview:** A closed guard drill focusing on the bottom player disrupting the top player's base by forcing them to touch the mat three times.
 
@@ -56,7 +56,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Maintain your base and posture without allowing your hands to touch the mat  
 **Win:** Successfully maintain your base without touching the mat three times  
 
-### Guard 2 - [Closed Guard Control vs Standing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-control-vs-standing.md)
+### Guard 2 - [Closed Guard Control vs Standing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-control-vs-standing.md)
 
 **Overview:** A closed guard drill where the bottom player works to establish double underhooks or head and arm control, while the top player attempts to stand up or split the legs to half guard.
 
@@ -72,7 +72,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Stand up with proper posture and open the closed guard or split your partner's legs to establish half guard  
 **Win:** Successfully stand up while maintaining good posture and open the closed guard or transition to half guard position  
 
-### Guard 3 - [Closed Guard Overhook Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
+### Guard 3 - [Closed Guard Overhook Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
 
 **Overview:** A closed guard drill focusing on the bottom player maintaining an overhook control with a hip out position, working toward sweeps or submissions, while the top player attempts to free their arm or split the legs to half guard.
 
@@ -88,7 +88,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Free your trapped arm or split your partner's legs to establish half guard  
 **Win:** Successfully free your arm from the overhook or transition to half guard position  
 
-### Guard 4 - [Closed Guard to Open Guard Transition](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-to-open-guard-transition.md)
+### Guard 4 - [Closed Guard to Open Guard Transition](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-to-open-guard-transition.md)
 
 **Overview:** A guard transition drill where the bottom player works to open their closed guard and establish spider guard, collar sleeve, or lasso guard, while the top player attempts to force half guard or stand up to stuff a leg.
 

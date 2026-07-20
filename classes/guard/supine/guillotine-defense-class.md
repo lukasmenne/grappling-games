@@ -5,12 +5,12 @@ This class focuses on defending against guillotine attacks across different posi
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
-2. [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
-3. [Closed Guard Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
-4. [Closed Guard Attack Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
-5. [Side Control Framing and Flattening](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
-6. [Side Control Head and Arm Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
+1. [T-Position to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
+2. [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+3. [Closed Guard Guillotine](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
+4. [Closed Guard Attack Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
+5. [Side Control Framing and Flattening](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
+6. [Side Control Head and Arm Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
+### 1.1 - [T-Position to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
 
 **Overview:** Standing drill transitioning from T-position with underhook to a front headlock position
 
@@ -41,7 +41,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Fight back to inside control and prevent your partner from establishing the front headlock position  
 **Win:** Successfully disconnect from the front headlock or re-establish inside position control, or connect to your own front headlock  
 
-### 1.2 - [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+### 1.2 - [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
 
 **Overview:** Ground-based drill focusing on maintaining control in the front headlock position while transitioning from side to side
 
@@ -59,7 +59,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Drills
 
-### 2.1 - [Closed Guard Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
+### 2.1 - [Closed Guard Guillotine](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
 
 **Overview:** A closed guard drill where the attacker starts with a chin strap grip and works to connect their hands for either arm-in or arm-out guillotine
 
@@ -75,7 +75,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Fight to prevent your partner from connecting their hands and establishing either guillotine variation  
 **Win:** Successfully prevent the hand connection and escape the chin strap control  
 
-### 2.2 - [Closed Guard Attack Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
+### 2.2 - [Closed Guard Attack Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
 
 **Overview:** A closed guard drill where the bottom player works to establish multiple offensive control positions including guillotine-style control
 
@@ -93,7 +93,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Pinning Drills
 
-### 3.1 - [Side Control Framing and Flattening](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
+### 3.1 - [Side Control Framing and Flattening](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-framing-and-flattening.md)
 
 **Overview:** A pinning drill focused on the bottom player preventing being flattened out and maintaining frames to avoid head and arm attacks
 
@@ -109,7 +109,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Stay on top, flatten your partner, and establish a connection around your partner's head / head and neck  
 **Win:** Successfully flatten your partner and establish a connection around your partner's head / head and neck 
 
-### 3.2 - [Side Control Head and Arm Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
+### 3.2 - [Side Control Head and Arm Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
 
 **Overview:** A transitional drill focusing on advancing from side control to various head and arm attacks (arm triangle, darce, anaconda, or guillotine)
 

@@ -5,12 +5,12 @@ This class develops lasso guard fundamentals and related concepts, starting with
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [T-Position to Takedown Entries](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
-2. [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-3.md)
-3. [Lasso Guard Maintenance - Kneeling Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-kneeling.md)
-4. [Lasso Guard Maintenance - Standing Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-standing.md)
-5. [Triangle Position Control and Finishing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
-6. [Lasso Guard Triangle and Omoplata](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-triangle-omoplata.md)
+1. [T-Position to Takedown Entries](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+2. [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-3.md)
+3. [Lasso Guard Maintenance - Kneeling Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-kneeling.md)
+4. [Lasso Guard Maintenance - Standing Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-standing.md)
+5. [Triangle Position Control and Finishing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
+6. [Lasso Guard Triangle and Omoplata](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-triangle-omoplata.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -24,7 +24,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [T-Position to Takedown Entries](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+### 1.1 - [T-Position to Takedown Entries](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
 
 **Overview:** A standing drill focusing on transitioning from a T-position underhook to dominant body control. The attacker looks to secure a bodylock, pick up a single leg, or achieve tight hip-to-hip connection and lift.
 
@@ -42,7 +42,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:** Stay upright (no intentional dropping to knees)  
 **Win:** (a) Establish double inside control (clear attacker underhook; both arms inside), OR (b) achieve complete separation (no chest/hip contact and attacker loses underhook), OR (c) secure front headlock before attacker lifts
 
-### 1.2 - [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-3.md)
+### 1.2 - [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-3.md)
 
 **Overview:** A progressive guard passing drill where the top player works through three different guard starting positions, staying standing to touch their shin to the bottom player's belt on the outside, while the bottom player tries to get the top player down to their hips and stand up.
 
@@ -67,7 +67,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 ## Guard Drills
 
-### 2.1 - [Lasso Guard Maintenance - Kneeling Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-kneeling.md)
+### 2.1 - [Lasso Guard Maintenance - Kneeling Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-kneeling.md)
 
 **Overview:** A drill focused on maintaining lasso guard position against a kneeling passer, with the guard player working to hold the position or sweep while the top player attempts to unwind the lasso and disconnect.
 
@@ -84,7 +84,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 **Constraints:** Must stay on your knees throughout the drill  
 **Win:** Successfully unwind the lasso and disconnect both of your opponent's feet from your body
 
-### 2.2 - [Lasso Guard Maintenance - Standing Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-standing.md)
+### 2.2 - [Lasso Guard Maintenance - Standing Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-maintenance-standing.md)
 
 **Overview:** A drill focused on maintaining lasso guard position against a passer who can stand, with the guard player working to hold the position or sweep while the top player attempts to unwind the lasso, disconnect, and pass from standing.
 
@@ -100,7 +100,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 **Objective:** Unwind the lassoed arm, disconnect your opponent's feet from your body, stand up, and work to pass the guard  
 **Win:** Successfully pass the guard and establish chest-to-chest or chest-to-back with a head and arm
 
-### 2.3 - [Triangle Position Control and Finishing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
+### 2.3 - [Triangle Position Control and Finishing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
 
 **Overview:** A triangle-specific drill where the bottom player starts with a loose leg loop around the top player's head and arm. The bottom player works to maintain the position, break the top player's head down, and advance to a tight triangle, omoplata, or sweep.
 
@@ -116,7 +116,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 **Objective:** Get both arms inside or outside the loop, or completely free your head and arm from the triangle position  
 **Win:** Successfully get both arms to the same side of the triangle or completely escape the position
 
-### 2.4 - [Lasso Guard Triangle and Omoplata](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-triangle-omoplata.md)
+### 2.4 - [Lasso Guard Triangle and Omoplata](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-triangle-omoplata.md)
 
 **Overview:** A drill starting from lasso guard where the guard player works to attack with triangle or omoplata submissions while the top player works to defend and pass.
 

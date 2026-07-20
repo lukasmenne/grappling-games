@@ -5,11 +5,11 @@ This class focuses on establishing dominant positioning through standing control
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Head Position to Neck Trap vs Underhook](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-neck-trap-vs-underhook.md)
-2. [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
-3. [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-2.md)
-4. [Progressive Mount Wrist Control to Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-isolation.md)
-5. [Progressive Mount Wrist Control to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-submission.md)
+1. [Head Position to Neck Trap vs Underhook](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-neck-trap-vs-underhook.md)
+2. [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+3. [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-2.md)
+4. [Progressive Mount Wrist Control to Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-isolation.md)
+5. [Progressive Mount Wrist Control to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-submission.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -23,7 +23,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Head Position to Neck Trap vs Underhook](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-neck-trap-vs-underhook.md)
+### 1.1 - [Head Position to Neck Trap vs Underhook](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-neck-trap-vs-underhook.md)
 
 **Overview:** A standing drill where partners compete for positional control, one working to connect their head to their partner's neck while the other establishes an underhook.
 
@@ -39,7 +39,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Establish an underhook on your partner  
 **Win:** Successfully establish an underhook
 
-### 1.2 - [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+### 1.2 - [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
 
 **Overview:** A standing control drill where players compete to establish either upper body or lower body control by connecting their hands around their partner's body.
 
@@ -57,7 +57,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Drills
 
-### 2.1 - [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-2.md)
+### 2.1 - [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing-2.md)
 
 **Overview:** A progressive guard passing drill where the top player works through three different guard starting positions, staying standing to touch their shin to the bottom player's belt on the outside, while the bottom player tries to get the top player down to their hips and stand up.
 
@@ -79,7 +79,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Pinning Drills
 
-### 3.1 - [Progressive Mount Wrist Control to Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-isolation.md)
+### 3.1 - [Progressive Mount Wrist Control to Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-isolation.md)
 
 **Overview:** A progressive drilling game focusing on establishing wrist control from mount position and using it to isolate both of the bottom player's arms in preparation for submissions.
 
@@ -100,7 +100,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get both your knees and hands in front of your opponent  
 **Win:** Both knees and both hands positioned in front of opponent (defensive frames on hips with knees between you and opponent)
 
-### 3.2 - [Progressive Mount Wrist Control to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-submission.md)
+### 3.2 - [Progressive Mount Wrist Control to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/progressive-mount-wrist-control-to-submission.md)
 
 **Overview:** A progressive drilling game starting from mount with wrist control where the top player works to maintain control and secure armbar or arm triangle submissions from any top position while staying out of guard.
 

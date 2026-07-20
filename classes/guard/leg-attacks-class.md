@@ -3,12 +3,12 @@
 
 This class builds a complete leg attack game from standing clinch entries through leg entanglement positions and submission finishes. Students develop entry mechanics from standing ties, learn to establish and attack from guard positions with hip attachment goals, work leg lock control from ashi garami, and then connect leg attack attempts to positional control sequences on the mat. Each drill layers onto the next, connecting takedown pressure to guard transitions to leg lock finishing.
 
-1. [Knee Touch and Mat Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
-2. [Control Tie to Ground](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/control-tie-to-ground.md)
-3. [Inside Position to Grounded Hip Connection](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-to-grounded-hip-connection.md)
-4. [Ashi Garami Control and Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/ashi-garami-control-and-submission.md)
-5. [Side Control Underhook Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-underhook-battle.md)
-6. [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+1. [Knee Touch and Mat Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
+2. [Control Tie to Ground](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/control-tie-to-ground.md)
+3. [Inside Position to Grounded Hip Connection](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-to-grounded-hip-connection.md)
+4. [Ashi Garami Control and Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/ashi-garami-control-and-submission.md)
+5. [Side Control Underhook Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-underhook-battle.md)
+6. [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -23,7 +23,7 @@ This class builds a complete leg attack game from standing clinch entries throug
 
 ## Standing Drills
 
-### 1.1 - [Knee Touch and Mat Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
+### 1.1 - [Knee Touch and Mat Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
 
 **Overview:** A competitive standing drill where both players race to touch behind their opponent's knee or force their opponent's hands to touch the mat. First to achieve three touches wins the round.
 
@@ -33,7 +33,7 @@ This class builds a complete leg attack game from standing clinch entries throug
 **Objective:** Touch behind your partner's knee or get their hands to touch the mat  
 **Win:** Successfully complete three touches (any combination of behind-knee touches or forcing hands to mat)  
 
-### 1.2 - [Control Tie to Ground](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/control-tie-to-ground.md)
+### 1.2 - [Control Tie to Ground](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/control-tie-to-ground.md)
 
 **Overview:** A competitive takedown drill where both players race to get their opponent down to their hips or onto both hands from three different clinch starting positions. Winner restarts from a different position.
 
@@ -45,7 +45,7 @@ This class builds a complete leg attack game from standing clinch entries throug
 
 ## Guard and Leg Lock Drills
 
-### 2.1 - [Inside Position to Grounded Hip Connection](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-to-grounded-hip-connection.md)
+### 2.1 - [Inside Position to Grounded Hip Connection](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-to-grounded-hip-connection.md)
 
 **Overview:** An asymmetric drill where the bottom player works to get the top player's hips on the mat AND establish a hip connection, while the top player tries to pass the guard and connect their shin to the belt on the outside - without going to their knees.
 
@@ -61,7 +61,7 @@ This class builds a complete leg attack game from standing clinch entries throug
 **Objective:** Pass the bottom player's guard by getting your shin to their belt on the outside of their legs  
 **Win:** Successfully touch your shin to your partner's belt on the outside of their legs (must stay standing - no going to knees)  
 
-### 2.2 - [Ashi Garami Control and Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/ashi-garami-control-and-submission.md)
+### 2.2 - [Ashi Garami Control and Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/ashi-garami-control-and-submission.md)
 
 **Overview:** A leg lock specialist drill starting from butterfly or regular ashi garami. The attacker works to maintain position and finish an ankle lock submission, while the defender works to escape by getting both legs inside or completely separating their legs.
 
@@ -79,7 +79,7 @@ This class builds a complete leg attack game from standing clinch entries throug
 
 ## Pinning Drills
 
-### 3.1 - [Side Control Underhook Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-underhook-battle.md)
+### 3.1 - [Side Control Underhook Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-underhook-battle.md)
 
 **Overview:** A pinning drill focused on the critical moment when the bottom player has earned an underhook and hip frame but is still flat. The top player must neutralize the underhook threat before the bottom player can complete an escape.
 
@@ -95,7 +95,7 @@ This class builds a complete leg attack game from standing clinch entries throug
 **Objective:** Shut down the underhook threat, flatten and consolidate dominant control  
 **Win:** Establish solid crossface and underhook control, OR transition to chest-to-back with seatbelt grip  
 
-### 3.2 - [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+### 3.2 - [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
 
 **Overview:** A back control drill focused on transitioning to and maintaining back control from a compromised starting position, while the defending player works to prevent hook establishment and escape to a neutral or facing position.
 

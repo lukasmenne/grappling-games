@@ -5,12 +5,12 @@ This class develops fundamental turtle attack concepts, starting with standing b
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Back Control to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/back-control-to-front-headlock.md)
-2. [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
-3. [Turtle Defense and Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
-4. [Turtle Crucifix Entry](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-crucifix-entry.md)
-5. [Turtle Clock Choke Setup](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-clock-choke-setup.md)
-6. [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+1. [Back Control to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/back-control-to-front-headlock.md)
+2. [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+3. [Turtle Defense and Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
+4. [Turtle Crucifix Entry](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-crucifix-entry.md)
+5. [Turtle Clock Choke Setup](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-clock-choke-setup.md)
+6. [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Control: 6 minutes
@@ -25,7 +25,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Control Drills
 
-### 1.1 - [Back Control to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/back-control-to-front-headlock.md)
+### 1.1 - [Back Control to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/back-control-to-front-headlock.md)
 
 **Overview:** A standing drill where one partner starts with chest-to-back control and works to take their partner down to their hips or hands to establish front headlock control.
 
@@ -43,7 +43,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Grounded Front Headlock Drills
 
-### 2.1 - [Grounded Front Headlock Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
+### 2.1 - [Grounded Front Headlock Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grounded-front-headlock-transitions.md)
 
 **Overview:** A ground-based drill focusing on maintaining control in the front headlock position while transitioning from side to side, as the defender works to establish guard.
 
@@ -61,7 +61,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Turtle Position Drills
 
-### 3.1 - [Turtle Defense and Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
+### 3.1 - [Turtle Defense and Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
 
 **Overview:** A turtle position drill where the defending player works to prevent hip control and maintain defensive posture while the attacking player tries to establish dominance and break down the turtle position.
 
@@ -77,7 +77,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Prevent hip control and improve your position  
 **Win:** Successfully turn to guard, stand up, or sweep the top player over to become the top player  
 
-### 3.2 - [Turtle Crucifix Entry](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-crucifix-entry.md)
+### 3.2 - [Turtle Crucifix Entry](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-crucifix-entry.md)
 
 **Overview:** A turtle position drill where the attacking player works to establish crucifix control (chest to back position, trapping near arm with your legs and controlling far arm), while the defending player works to prevent arm isolation and maintain defensive structure.
 
@@ -93,7 +93,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Prevent arm isolation and maintain turtle structure while working to escape  
 **Win:** Successfully turn to guard, stand up, or sweep the top player over to become the top player  
 
-### 3.3 - [Turtle Clock Choke Setup](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-clock-choke-setup.md)
+### 3.3 - [Turtle Clock Choke Setup](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-clock-choke-setup.md)
 
 **Overview:** A turtle position drill where the attacking player works to establish clock choke position (perpendicular to the bottom player with chest over back and collar grip), while the defending player in turtle position works to prevent the setup and escape.
 
@@ -109,7 +109,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Prevent perpendicular setup and collar grip acquisition while working to escape  
 **Win:** Successfully turn to face your partner, stand up, or sweep the top player over to become the top player  
 
-### 3.4 - [Back Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
+### 3.4 - [Back Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-transitions.md)
 
 **Overview:** A back control drill focused on transitioning to and maintaining back control position from various starting positions and defending against common escapes.
 

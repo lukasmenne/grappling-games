@@ -5,12 +5,12 @@ This class focuses on developing positional control and submission setups across
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
-2. [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
-3. [Triangle Position Control and Finishing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
-4. [Closed Guard Attack with Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-with-triangle.md)
-5. [Mount Collar Choke or Back Take](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-collar-choke-or-back-take.md)
-6. [Mount Submissions or Back Take](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-submissions-or-back-take.md)
+1. [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+2. [T-Position to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
+3. [Triangle Position Control and Finishing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
+4. [Closed Guard Attack with Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-with-triangle.md)
+5. [Mount Collar Choke or Back Take](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-collar-choke-or-back-take.md)
+6. [Mount Submissions or Back Take](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-submissions-or-back-take.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+### 1.1 - [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 
 **Overview:** A competitive standing drill where both partners start with no connections and race to achieve a bodylock by completing three progressive touches: underhook, hand behind the knee, or Russian tie control.
 
@@ -35,7 +35,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Complete three touches (any combination of underhook, hand behind knee, or Russian tie) before establishing a bodylock, or bypass these requirements by shooting for a double leg takedown  
 **Win:** Successfully complete three touches and establish a bodylock, or successfully execute a double leg takedown
 
-### 1.2 - [T-Position to Front Headlock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
+### 1.2 - [T-Position to Front Headlock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-to-front-headlock.md)
 
 **Overview:** A standing drill focusing on establishing the front headlock position from a T-position with an underhook, with the goal of controlling the opponent and taking them down to their hands.
 
@@ -53,7 +53,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Drills
 
-### 2.1 - [Triangle Position Control and Finishing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
+### 2.1 - [Triangle Position Control and Finishing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/triangle-position-control-and-finishing.md)
 
 **Overview:** A triangle-specific drill where the bottom player starts with a loose leg loop around the top player's head and arm. The bottom player works to maintain the position, break the top player's head down, and advance to a tight triangle, omoplata, or sweep.
 
@@ -69,7 +69,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get both arms inside or outside the loop, or completely free your head and arm from the triangle position  
 **Win:** Successfully get both arms to the same side of the triangle or completely escape the position
 
-### 2.2 - [Closed Guard Attack with Triangle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-with-triangle.md)
+### 2.2 - [Closed Guard Attack with Triangle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-with-triangle.md)
 
 **Overview:** A closed guard drill where the bottom player works to establish multiple offensive control positions including the triangle finish, while the top player defends and maintains posture or starts passing.
 
@@ -87,7 +87,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Mount Drills
 
-### 3.1 - [Mount Collar Choke or Back Take](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-collar-choke-or-back-take.md)
+### 3.1 - [Mount Collar Choke or Back Take](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-collar-choke-or-back-take.md)
 
 **Overview:** A mount control drill where the top player works to secure a collar choke by covering both sides of the bottom player's neck with their wrists/forearms, or takes their partner's back. The bottom player works to escape back to guard or reverse the position.
 
@@ -103,7 +103,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get back to guard with at least one of the top player's legs controlled above the knee, or roll them over and become the top player  
 **Win:** Successfully return to guard with control of at least one leg above the knee, or successfully reverse the position to become the top player
 
-### 3.2 - [Mount Submissions or Back Take](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-submissions-or-back-take.md)
+### 3.2 - [Mount Submissions or Back Take](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-submissions-or-back-take.md)
 
 **Overview:** A mount control drill where the top player works to secure any submission from mount or takes their partner's back. The bottom player works to escape back to guard or reverse the position.
 

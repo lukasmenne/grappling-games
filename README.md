@@ -4,7 +4,7 @@ This repository contains examples of games and exercises designed for grappling 
 
 ## Website
 
-The games and classes are available as a website at [https://mennlo.github.io/grappling-games/](https://mennlo.github.io/grappling-games/).
+The games and classes are available as a website at [https://lukasmenne.github.io/grappling-games/](https://lukasmenne.github.io/grappling-games/).
 
 ## Repository Structure
 
@@ -60,13 +60,13 @@ A brief description of the game and its purpose.
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Game 1 Name](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md)
-2. [Game 2 Name](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md)
-3. [Game 3 Name](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md)
+1. [Game 1 Name](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md)
+2. [Game 2 Name](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md)
+3. [Game 3 Name](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md)
 
 ## Section 1 Title
 
-### Game 1 - [Game 1 Name](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md)
+### Game 1 - [Game 1 Name](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md)
 
 **Overview:** Brief description
 
@@ -96,7 +96,7 @@ Any closing notes or additional instructions.
 When linking to games within your Markdown files, use the GitHub Pages URL format:
 
 ```
-https://mennlo.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md
+https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/category/game-name.md
 ```
 
 Replace `category` with the appropriate folder path and `game-name.md` with the actual filename.
@@ -106,7 +106,7 @@ Replace `category` with the appropriate folder path and `game-name.md` with the 
 ### Creating a New File in the GitHub Web Interface
 
 1. **Navigate to the Repository**
-   - Go to [https://github.com/mennlo/grappling-games](https://github.com/mennlo/grappling-games)
+   - Go to [https://github.com/lukasmenne/grappling-games](https://github.com/lukasmenne/grappling-games)
    - Make sure you're logged into your GitHub account
 
 2. **Navigate to the Appropriate Directory**

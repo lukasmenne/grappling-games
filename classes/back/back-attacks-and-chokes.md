@@ -5,12 +5,12 @@ This class focuses on developing effective attacks and chokes from back control 
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
-2. [Back Control Arm Pin Cross Grip](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-cross-grip.md)
-3. [Back Control Arm Pin Figure Four](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-figure-four.md)
-4. [Rear Naked Choke from Back](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/rear-naked-choke-from-back.md)
-5. [Gi Choke from Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
-6. [Back Control Any Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
+1. [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+2. [Back Control Arm Pin Cross Grip](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-cross-grip.md)
+3. [Back Control Arm Pin Figure Four](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-figure-four.md)
+4. [Rear Naked Choke from Back](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/rear-naked-choke-from-back.md)
+5. [Gi Choke from Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
+6. [Back Control Any Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 6 minutes
@@ -24,7 +24,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+### 1.1 - [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
 
 **Overview:** A standing control drill where players compete to establish either upper body or lower body control by connecting their hands around their partner's body.
 
@@ -42,7 +42,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Back Attack Drills
 
-### 2.1 - [Back Control Arm Pin Cross Grip](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-cross-grip.md)
+### 2.1 - [Back Control Arm Pin Cross Grip](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-cross-grip.md)
 
 **Overview:** A back control drill focusing on pinning the defending partner's arm using leg control while maintaining chest-to-back connection.
 
@@ -58,7 +58,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Escape chest-to-back connection or prevent arm pin  
 **Win:** Escape chest-to-back connection (mount counts as escape) or prevent arm pin for the full round  
 
-### 2.2 - [Back Control Arm Pin Figure Four](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-figure-four.md)
+### 2.2 - [Back Control Arm Pin Figure Four](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-arm-pin-figure-four.md)
 
 **Overview:** A back control drill focusing on pinning the defending partner's arm using leg control while maintaining both hooks and figure four grip.
 
@@ -74,7 +74,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Escape chest-to-back connection or prevent arm pin  
 **Win:** Escape chest-to-back connection (mount counts as escape) or prevent arm pin for the full round  
 
-### 2.3 - [Rear Naked Choke from Back](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/rear-naked-choke-from-back.md)
+### 2.3 - [Rear Naked Choke from Back](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/rear-naked-choke-from-back.md)
 
 **Overview:** A rear naked choke drill where the attacking partner works to close a loop around the defender's head while maintaining back control.
 
@@ -90,7 +90,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Prevent the choke setup and escape back control  
 **Win:** Successfully escape back control before the loop is closed  
 
-### 2.4 - [Gi Choke from Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
+### 2.4 - [Gi Choke from Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/gi-choke-from-back-control.md)
 
 **Overview:** A gi-specific back control drill where the attacking partner must establish collar grips before attempting submissions.
 
@@ -106,7 +106,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Prevent collar grips and escape back control  
 **Win:** Successfully escape back control or prevent both collar grips from being established  
 
-### 2.5 - [Back Control Any Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
+### 2.5 - [Back Control Any Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/back-control-any-attack.md)
 
 **Overview:** An advanced back control drill where the attacking partner can use any legal submission from back control while starting with a figure four grip.
 

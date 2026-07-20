@@ -59,8 +59,8 @@
     <footer>
         <div class="container">
             <p>Last updated: June 19, 2025</p>
-            <p><a href="https://github.com/mennlo/grappling-games">View on GitHub <i class="fab fa-github"></i></a></p>
-            <p><a href="https://github.com/mennlo/grappling-games/issues/new?title=Feedback%20on%20" id="feedback-link" target="_blank">Provide Feedback <i class="fas fa-comment"></i></a></p>
+            <p><a href="https://github.com/lukasmenne/grappling-games">View on GitHub <i class="fab fa-github"></i></a></p>
+            <p><a href="https://github.com/lukasmenne/grappling-games/issues/new?title=Feedback%20on%20" id="feedback-link" target="_blank">Provide Feedback <i class="fas fa-comment"></i></a></p>
         </div>
     </footer>
 
@@ -85,10 +85,10 @@
             
             // Update the feedback link with the current file
             const feedbackLink = document.getElementById('feedback-link');
-            feedbackLink.href = `https://github.com/mennlo/grappling-games/issues/new?title=Feedback%20on%20${formatName(fileName)}&body=Feedback%20for:%20${filePath}%0A%0AYour%20feedback:%20`;
+            feedbackLink.href = `https://github.com/lukasmenne/grappling-games/issues/new?title=Feedback%20on%20${formatName(fileName)}&body=Feedback%20for:%20${filePath}%0A%0AYour%20feedback:%20`;
             
             // Fetch the markdown content from GitHub
-            const baseRepoUrl = 'https://api.github.com/repos/mennlo/grappling-games/contents/';
+            const baseRepoUrl = 'https://api.github.com/repos/lukasmenne/grappling-games/contents/';
             
             fetch(`${baseRepoUrl}${filePath}`)
                 .then(response => {
@@ -160,7 +160,7 @@
                 const encodedTitle = encodeURIComponent(issueTitle);
                 const encodedBody = encodeURIComponent(issueBody);
                 
-                const issueUrl = `https://github.com/mennlo/grappling-games/issues/new?title=${encodedTitle}&body=${encodedBody}`;
+                const issueUrl = `https://github.com/lukasmenne/grappling-games/issues/new?title=${encodedTitle}&body=${encodedBody}`;
                 
                 // Show success message
                 feedbackForm.style.display = 'none';

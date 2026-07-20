@@ -5,12 +5,12 @@ This class focuses on developing effective guard passing using the smash pass an
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Head Position to Single Leg vs Underhook](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-single-leg-vs-underhook.md)
-2. [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
-3. [Smash Pass Hip Elevation from Legs on Shoulders](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-hip-elevation-from-legs-on-shoulders.md)
-4. [Smash Pass Elevated Hips Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-elevated-hips-drill.md)
-5. [Knee Slice Smash Pass Progressive Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-smash-pass-progressive-drill.md)
-6. [Turtle Defense and Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
+1. [Head Position to Single Leg vs Underhook](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-single-leg-vs-underhook.md)
+2. [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+3. [Smash Pass Hip Elevation from Legs on Shoulders](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-hip-elevation-from-legs-on-shoulders.md)
+4. [Smash Pass Elevated Hips Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-elevated-hips-drill.md)
+5. [Knee Slice Smash Pass Progressive Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-smash-pass-progressive-drill.md)
+6. [Turtle Defense and Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Head Position to Single Leg vs Underhook](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-single-leg-vs-underhook.md)
+### 1.1 - [Head Position to Single Leg vs Underhook](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/head-position-single-leg-vs-underhook.md)
 
 **Overview:** A standing drill where one partner works to connect their head to their partner's side of neck and then pick up a single leg, while the other partner works to establish an underhook.
 
@@ -42,7 +42,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Establish an underhook on your partner  
 **Win:** Successfully establish an underhook  
 
-### 1.2 - [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+### 1.2 - [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
 
 **Overview:** A progressive drilling game where partners work through three different single leg positions, alternating roles as they achieve success in each position.
 
@@ -67,7 +67,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 ## Guard Passing Drills
 
-### 2.1 - [Smash Pass Hip Elevation from Legs on Shoulders](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-hip-elevation-from-legs-on-shoulders.md)
+### 2.1 - [Smash Pass Hip Elevation from Legs on Shoulders](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-hip-elevation-from-legs-on-shoulders.md)
 
 **Overview:** A guard passing drill where the top player starts on their knees with both of the bottom player's legs on their shoulders and hands connected around the thighs. The top player works to elevate the bottom player's hips to begin pinning them in an effort to pass to chest-to-chest position.
 
@@ -83,7 +83,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 **Objective:** Get your legs free and return to guard, transition to turtle position, submit the top player, or sweep  
 **Win:** Successfully get both legs free and recover guard, submit your partner, or sweep to come on top  
 
-### 2.2 - [Smash Pass Elevated Hips Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-elevated-hips-drill.md)
+### 2.2 - [Smash Pass Elevated Hips Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/smash-pass-elevated-hips-drill.md)
 
 **Overview:** A guard passing drill where the top player starts with a smash pass position (one leg on shoulder, other leg pinned), and must pass to chest-to-chest control only when the bottom player's hips are elevated.
 
@@ -99,7 +99,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 **Objective:** Recover guard, transition to turtle position, or submit the top player, or sweep   
 **Win:** Successfully recover guard, establish turtle position, or achieve triangle control  
 
-### 2.3 - [Knee Slice Smash Pass Progressive Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-smash-pass-progressive-drill.md)
+### 2.3 - [Knee Slice Smash Pass Progressive Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-smash-pass-progressive-drill.md)
 
 **Overview:** A progressive drilling exercise that combines the entry of the knee slice or smash pass from standing with the finishing mechanics.
 
@@ -117,7 +117,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 ## Pinning Drills
 
-### 3.1 - [Turtle Defense and Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
+### 3.1 - [Turtle Defense and Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/turtle-defense-and-hip-control.md)
 
 **Overview:** A turtle position drill where the defending player works to prevent hip control and maintain defensive posture while the attacking player tries to establish dominance and break down the turtle position.
 

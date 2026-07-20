@@ -7,11 +7,11 @@ This class focuses on developing leg entanglement skills and leg attack techniqu
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Seated Guard Leg Connection Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-leg-connection-control.md)
-2. [Inside Position Shootout](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
-3. [Imbalanced Inside Position Shootout with Standing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
-4. [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
-5. [Ashi Garami Leg Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/ashi-garami-leg-attack.md)
+1. [Seated Guard Leg Connection Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-leg-connection-control.md)
+2. [Inside Position Shootout](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
+3. [Imbalanced Inside Position Shootout with Standing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
+4. [Kneebar and Toehold Catch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
+5. [Ashi Garami Leg Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/ashi-garami-leg-attack.md)
 
 **Total Drilling Time:** 33 minutes
 - Leg Connection and Control Drills: 6 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Leg Connection and Control Drills
 
-### 1.1 - [Seated Guard Leg Connection Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-leg-connection-control.md)
+### 1.1 - [Seated Guard Leg Connection Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/seated-guard-leg-connection-control.md)
 
 **Overview:** A dynamic drill where an attacker in seated guard maintains connection to a standing defender's leg, working to off-balance and entangle for takedowns or sweeps, while the defender tries to flatten the attacker and maintain control.
 
@@ -43,7 +43,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Leg Entanglement Development
 
-### 2.1 - [Inside Position Shootout](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
+### 2.1 - [Inside Position Shootout](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/inside-position-shootout.md)
 
 **Overview:** A competitive leg entanglement drill where both players start seated with mixed leg positions, each holding their opponent's ankles. Both players race to establish inside position with their feet and entangle their opponent's leg with a hip connection.
 
@@ -54,7 +54,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Get both feet to inside position and entangle opponent's leg with a connection to the hip  
 **Win:** Successfully achieve inside position with both feet and establish hip connection on opponent's leg
 
-### 2.2 - [Imbalanced Inside Position Shootout with Standing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
+### 2.2 - [Imbalanced Inside Position Shootout with Standing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/imbalanced-inside-position-shootout-with-standing.md)
 
 **Overview:** An advanced leg entanglement drill where one player starts with inside position advantage while both players work to either stand up clean or establish dominant grounded control with hip attachment and ankle wrap.
 
@@ -75,7 +75,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 **Important:** These drills are about achieving proper catch positions - NOT finishing submissions. Demonstrate control, then reset. Attackers focus on maintaining a tight connection above the knee line close to the hip. Defenders focus on separating the knees, and pushing on the attacker to escape the entanglement and free their knee line. **During any time drilling, if the defender is feeling unsafe or is unsure about the safety of the position, they should tap out and both players reset.**
 
-### 3.1 - [Kneebar and Toehold Catch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
+### 3.1 - [Kneebar and Toehold Catch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/kneebar-and-toehold-catch.md)
 
 **Overview:** A leg attack drill where the attacking player starts with leg entanglement from a mounted position, then falls to the side to set up kneebar and toehold attacks, while the defender works to escape the leg entanglement and free their knee line.
 
@@ -91,7 +91,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Escape the leg entanglement and free your knee line when the attacker falls to the side  
 **Win:** Successfully escape the leg entanglement and free your knee line completely
 
-### 3.2 - [Ashi Garami Leg Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/ashi-garami-leg-attack.md)
+### 3.2 - [Ashi Garami Leg Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/ashi-garami-leg-attack.md)
 
 **Example:** Show how to switch between ashi garami to outside ashi garami to sit up into different leg entanglements, with potential for knee bars / toe holds. 
 

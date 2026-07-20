@@ -3,16 +3,16 @@
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
-2. [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
-3. [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
-4. [Double Sleeve Sweep - Dirty Feet](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-dirty-feet.md)
-5. [Split and Chest-to-Chest](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-and-chest-to-chest.md)
-6. [Lasso Guard Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
+1. [Grip Fighting - Inside Position Underhook Finish](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
+2. [Single Leg Control and Defense with Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
+3. [HQ Position Passing Drill with Sweeps and Leg Pin](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
+4. [Double Sleeve Sweep - Dirty Feet](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-dirty-feet.md)
+5. [Split and Chest-to-Chest](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-and-chest-to-chest.md)
+6. [Lasso Guard Sweep, Submit, or Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
 
 ## Standing Drills
 
-### Standing 1 - [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
+### Standing 1 - [Grip Fighting - Inside Position Underhook Finish](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
 
 **Overview:** A standing drill focused on establishing inside position through strategic grip fighting, with the goal of obtaining an effective underhook.
 
@@ -21,7 +21,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Targeting grips on wrists, elbows or head, try to obtain inside position with arms and head position in an effort to get an effective underhook.  
 **Win Condition:** Get an effective underhook
 
-### Standing 2 - [Single Leg Control and Defense with Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
+### Standing 2 - [Single Leg Control and Defense with Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-and-defense-add-bodylock.md)
 
 **Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control, with the addition of a bodylock finish.
 
@@ -39,7 +39,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Drills
 
-### Guard 1 - [HQ Position Passing Drill with Sweeps and Leg Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
+### Guard 1 - [HQ Position Passing Drill with Sweeps and Leg Pin](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill-with-sweeps-and-leg-pin.md)
 
 **Overview:** A drill focusing on establishing and controlling the Headquarters (HQ) passing position with one player starting disconnected and working to get between the bottom player's knees, including sweeps and leg pinning.
 
@@ -63,7 +63,7 @@ This class consists of several progressive drills that build upon each other. Ea
 5. Once top player establishes HQ, they work to pin a thigh using their shins while bottom player defends
 6. When either player achieves win condition, switch roles
 
-### Guard 2 - [Double Sleeve Sweep - Dirty Feet](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-dirty-feet.md)
+### Guard 2 - [Double Sleeve Sweep - Dirty Feet](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/double-sleeve-sweep-dirty-feet.md)
 
 **Overview:** A simplified drill starting from double sleeve grips with the bottom player supine, feet on the hips, and the top player on their knees with shin grips. This drill focuses on maintaining connections, guard retention, and basic open guard objectives.
 
@@ -82,7 +82,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:** Must keep at least one knee on the mat, cannot pass the guard  
 **Win:** None
 
-### Guard 3 - [Split and Chest-to-Chest](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-and-chest-to-chest.md)
+### Guard 3 - [Split and Chest-to-Chest](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/split-and-chest-to-chest.md)
 
 **Overview:** A drill focusing on splitting the opponent's guard and achieving chest-to-chest connection with one leg inside (splitting the partner's legs), rather than fully passing. This game develops the ability to open the guard, control the legs, and establish strong passing positions, while the bottom player works on guard retention.
 
@@ -100,7 +100,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Constraints:** Only goal is to retain guard and keep feet between the top player's legs. No cloth grips allowed.  
 **Win:** Keep your feet between your partner's legs for the duration of the round, sweep if you can (no submissions).
 
-### Guard 4 - [Lasso Guard Sweep, Submit, or Pass](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
+### Guard 4 - [Lasso Guard Sweep, Submit, or Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lasso-guard-sweep-submit-or-pass.md)
 
 **Overview:** A drill starting from lasso guard, with the bottom player having a lasso (one leg threaded around the top player's arm and gripping the sleeve) and the other foot on the hip, while the top player is on their knees.
 

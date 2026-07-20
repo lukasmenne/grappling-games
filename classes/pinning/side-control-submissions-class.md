@@ -5,12 +5,12 @@ This class develops pathways from standing control into side control, builds fun
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Underhook Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
-2. [T-Position Takedown Pathways](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
-3. [Side Control Head and Arm Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
-4. [Side Control Figure Four Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
-5. [Mount Wrist Control to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-to-submission.md)
-6. [Side Control Framing to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-to-submission.md)
+1. [Underhook Russian Tie Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
+2. [T-Position Takedown Pathways](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+3. [Side Control Head and Arm Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
+4. [Side Control Figure Four Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
+5. [Mount Wrist Control to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-to-submission.md)
+6. [Side Control Framing to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-to-submission.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Entries: 12 minutes  
@@ -24,7 +24,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Underhook Russian Tie Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
+### 1.1 - [Underhook Russian Tie Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/underhook-russian-tie-control.md)
 
 **Overview:** A standing drill focused on establishing and maintaining an underhook or Russian tie control position while preventing your partner from establishing their own control.
 
@@ -35,7 +35,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Cover your partner's hands and fight for an underhook or a Russian tie, then maintain this control position  
 **Win:** Maintain the control position or successfully pick up a single leg from either control position 
 
-### 1.2 - [T-Position Takedown Pathways](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+### 1.2 - [T-Position Takedown Pathways](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
 
 **Overview:** A standing drill focusing on transitioning from a T-position underhook to dominant body control. The attacker looks to secure a bodylock (front or back), pick up a single leg, pick up a double leg, or achieve tight hip-to-hip connection and lift the defender off the ground. The defender works to deny body connection and choose one of three tactical branches.
 
@@ -53,7 +53,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Pinning & Submission Drills
 
-### 2.1 - [Side Control Head and Arm Attacks](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
+### 2.1 - [Side Control Head and Arm Attacks](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-arm-triangle-setup.md)
 
 **Overview:** A transitional drill focusing on advancing from side control to various head and arm attacks (arm triangle, darce, anaconda, or guillotine), with the bottom player having only limited frames to defend.
 
@@ -69,7 +69,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Use limited defensive resources to recover guard or reverse the position  
 **Win:** Successfully recover any form of guard or reverse the position  
 
-### 2.2 - [Side Control Figure Four Attack](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
+### 2.2 - [Side Control Figure Four Attack](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
 
 **Overview:** A ground-based drill focusing on attacking with the figure four arm control from side control and defending against it to recover guard.
 
@@ -85,7 +85,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Defend against the figure four control and work to recover any form of guard  
 **Win:** Successfully escape the position and recover guard  
 
-### 2.3 - [Mount Wrist Control to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-to-submission.md)
+### 2.3 - [Mount Wrist Control to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-to-submission.md)
 
 **Overview:** A drill starting from mount with wrist control where the top player works to maintain control and secure submissions from any top position (mount, side control, knee on belly, etc.) while staying out of guard. The bottom player works to free their wrists, establish defensive frames, and escape to guard or reverse position.
 
@@ -101,7 +101,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Free your wrists, establish defensive frames, and escape to guard or reverse position  
 **Win:** Get back to guard with at least one of the top player's legs controlled above the knee, or roll them over and become the top player
 
-### 2.4 - [Side Control Framing to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-to-submission.md)
+### 2.4 - [Side Control Framing to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-framing-to-submission.md)
 
 **Overview:** A pinning drill where the bottom player works to maintain frames at the hip and neck to prevent control and escape, while the top player attempts to break frames, establish dominant control, and secure submissions from any top position while staying out of guard.
 

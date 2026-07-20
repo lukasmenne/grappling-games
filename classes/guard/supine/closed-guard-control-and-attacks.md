@@ -5,12 +5,12 @@ This class develops closed guard fundamentals and control mechanics, starting wi
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
-2. [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
-3. [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
-4. [Closed Guard Retention and Posture Breaking](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
-5. [Closed Guard Overhook Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
-6. [Closed Guard Arm Trap Reversal](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-arm-trap-reversal.md)
+1. [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+2. [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+3. [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
+4. [Closed Guard Retention and Posture Breaking](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
+5. [Closed Guard Overhook Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
+6. [Closed Guard Arm Trap Reversal](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-arm-trap-reversal.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -24,7 +24,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+### 1.1 - [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
 
 **Overview:** A standing control drill where players compete to establish either upper body or lower body control by connecting their hands around their partner's body.
 
@@ -40,7 +40,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Connect your hands around your partner's lower body (legs or hips)  
 **Win:** Successfully lock your hands around your partner's lower body  
 
-### 1.2 - [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+### 1.2 - [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
 
 **Overview:** A progressive drilling game where partners work through three different single leg positions, alternating roles as they achieve success in each position.
 
@@ -65,7 +65,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 ## Guard Drills
 
-### 2.1 - [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
+### 2.1 - [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
 
 **Overview:** A progressive guard passing drill where the top player works through three different guard starting positions, staying standing to touch their shin to the bottom player's belt on the outside, while the bottom player tries to get the top player down to their hips and stand up.
 
@@ -88,7 +88,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 - Position 2: On your back with legs wrapped around one leg, feet crossed behind top player's butt, and hand grip on the ankle
 - Position 3: Seated with shin-on-shin guard established
 
-### 2.2 - [Closed Guard Retention and Posture Breaking](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
+### 2.2 - [Closed Guard Retention and Posture Breaking](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-retention-and-posture-breaking.md)
 
 **Overview:** A closed guard drill focusing on the bottom player retaining closed guard and breaking the top player's posture, while the top player works to open the guard and establish dominant positioning.
 
@@ -104,7 +104,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 **Objective:** Open the closed guard and stuff a leg for headquarters position, or get both legs on one side of your body  
 **Win:** Successfully open the guard and establish headquarters position, half guard or get both legs to one side  
 
-### 2.3 - [Closed Guard Overhook Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
+### 2.3 - [Closed Guard Overhook Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-overhook-control.md)
 
 **Overview:** A closed guard drill focusing on the bottom player maintaining an overhook control with a hip out position, working toward sweeps or submissions, while the top player attempts to free their arm or split the legs to half guard.
 
@@ -120,7 +120,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 **Objective:** Free your trapped arm or split your partner's legs to establish half guard  
 **Win:** Successfully free your arm from the overhook or transition to half guard position  
 
-### 2.4 - [Closed Guard Arm Trap Reversal](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-arm-trap-reversal.md)
+### 2.4 - [Closed Guard Arm Trap Reversal](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-arm-trap-reversal.md)
 
 **Overview:** A closed guard drill where the bottom player starts in an advantageous position with chest on the back of the top player's shoulder and both of the top player's arms trapped on one side of their body.
 

@@ -5,12 +5,12 @@ This class develops butterfly guard fundamentals and related concepts, starting 
 
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
-2. [T-Position to Bodylock Lift](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
-3. [Butterfly Guard Closed Loop Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-closed-loop-control.md)
-4. [Butterfly Guard Sweep or Back Take](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-sweep-or-back-take.md)
-5. [Butterfly Guard Belt Grip Pass Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-belt-grip-pass-defense.md)
-6. [Lazy Butterfly Guard Collar Grip](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lazy-butterfly-guard-collar-grip.md)
+1. [Grip Fighting - Inside Position Underhook Finish](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
+2. [T-Position to Bodylock Lift](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+3. [Butterfly Guard Closed Loop Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-closed-loop-control.md)
+4. [Butterfly Guard Sweep or Back Take](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-sweep-or-back-take.md)
+5. [Butterfly Guard Belt Grip Pass Defense](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-belt-grip-pass-defense.md)
+6. [Lazy Butterfly Guard Collar Grip](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lazy-butterfly-guard-collar-grip.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Control: 12 minutes
@@ -24,7 +24,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Standing Control Drills
 
-### 1.1 - [Grip Fighting - Inside Position Underhook Finish](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
+### 1.1 - [Grip Fighting - Inside Position Underhook Finish](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/grip-fighting-inside-position-underhook-finish.md)
 
 **Overview:** A standing drill focused on establishing inside position through strategic grip fighting.
 
@@ -35,7 +35,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Objective:** Targeting grips on wrists, elbows or head, try to obtain inside position with arms and head position in an effort to get an effective underhook or secure a bodylock  
 **Win:** Get an effective underhook OR secure a bodylock (front or back)  
 
-### 1.2 - [T-Position to Bodylock Lift](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
+### 1.2 - [T-Position to Bodylock Lift](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/t-position-takedown-pathways.md)
 
 **Overview:** A standing drill focusing on transitioning from a T-position underhook to dominant body control. The attacker looks to secure a bodylock, pick up a single or double leg, or achieve tight hip-to-hip connection and lift.
 
@@ -55,7 +55,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 
 ## Butterfly Guard Drills
 
-### 2.1 - [Butterfly Guard Closed Loop Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-closed-loop-control.md)
+### 2.1 - [Butterfly Guard Closed Loop Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-closed-loop-control.md)
 
 **Overview:** A drill focusing on establishing upper body control from butterfly guard while the top player works to split the legs or get outside position.
 
@@ -72,7 +72,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Constraints:** Must stay on your knees throughout the drill  
 **Win:** Successfully split the legs with one of your legs or get outside both legs and cover bottom player's hips  
 
-### 2.2 - [Butterfly Guard Sweep or Back Take](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-sweep-or-back-take.md)
+### 2.2 - [Butterfly Guard Sweep or Back Take](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-sweep-or-back-take.md)
 
 **Overview:** A drill where the bottom player in butterfly guard with arm control works to sweep or take the back, while the top player defends and looks to pass the guard.
 
@@ -89,7 +89,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Constraints:** If you stand up and bottom player keeps connected with their feet, continue defending the sweep until bottom player disconnects from your legs  
 **Win:** Successfully split the legs or get outside both legs, cover bottom player's hips, and pass to chest-to-chest position  
 
-### 2.3 - [Butterfly Guard Belt Grip Pass Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-belt-grip-pass-defense.md)
+### 2.3 - [Butterfly Guard Belt Grip Pass Defense](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/butterfly-guard-belt-grip-pass-defense.md)
 
 **Overview:** A drill where the bottom player in butterfly guard with belt grip works to prevent the pass while the top player works to get around the legs and achieve chest-to-chest control.
 
@@ -106,7 +106,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Constraints:** If you stand up and bottom player keeps connected with their feet, continue defending the sweep until bottom player disconnects from your legs  
 **Win:** Successfully get around both legs and establish chest-to-chest control  
 
-### 2.4 - [Lazy Butterfly Guard Collar Grip](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lazy-butterfly-guard-collar-grip.md)
+### 2.4 - [Lazy Butterfly Guard Collar Grip](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/lazy-butterfly-guard-collar-grip.md)
 
 **Overview:** A drill where the bottom player starts in lazy butterfly guard (butterfly half guard) with a same-side collar grip, working to sweep, take the back, or submit while the top player on their knees works to pass.
 

@@ -5,10 +5,10 @@ This class develops systematic control and escape concepts across standing, guar
 
 This class consists of four progressive drilling games that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
-2. [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
-3. [Pocket Leg Drag to Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
-4. [Progressive Mount Submissions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/progressive-mount-submissions.md)
+1. [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+2. [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
+3. [Pocket Leg Drag to Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
+4. [Progressive Mount Submissions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/progressive-mount-submissions.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -21,7 +21,7 @@ This class consists of four progressive drilling games that build upon each othe
 
 ## Standing Drills
 
-### 1.1 - [Single Leg Takedown Variations](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
+### 1.1 - [Single Leg Takedown Variations](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-takedown-variations.md)
 
 **Overview:** A progressive drilling game where partners work through three different single leg positions, alternating roles as they achieve success in each position.
 
@@ -48,7 +48,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 ## Guard Drills
 
-### 2.1 - [Progressive Guard Passing](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
+### 2.1 - [Progressive Guard Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/passing/progressive-guard-passing.md)
 
 **Overview:** A progressive guard passing drill where the top player works through three different guard starting positions, staying standing to touch their shin to the bottom player's belt on the outside, while the bottom player tries to get the top player down to their hips and stand up.
 
@@ -74,7 +74,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 **Objective:** Get the top player down to their hips and stand up  
 **Win:** Top player on hips and you standing
 
-### 2.2 - [Pocket Leg Drag to Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
+### 2.2 - [Pocket Leg Drag to Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
 
 **Overview:** A guard passing drill where the top player starts with one foot "in their pocket" (shelved on their hip) and a pants grip, working to establish leg drag position and hip control, while the bottom player works to sweep or establish specific guard connections.
 
@@ -92,7 +92,7 @@ Players start at Position 1 and progress to the next position after winning. Whe
 
 ## Pinning Drills
 
-### 3.1 - [Progressive Mount Submissions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/progressive-mount-submissions.md)
+### 3.1 - [Progressive Mount Submissions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/progressive-mount-submissions.md)
 
 **Overview:** A progressive drilling game focusing on submission attacks from mount and side control, where partners work through three different starting positions and alternate roles as they achieve success.
 

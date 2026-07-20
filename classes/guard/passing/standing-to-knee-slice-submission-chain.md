@@ -5,12 +5,12 @@ This class connects standing hand fighting and clinch control to grounded passin
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
-2. [Control Tie to Ground](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/control-tie-to-ground.md)
-3. [Knee Slice, Leg Weave, or X Pass Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
-4. [Side Control Figure Four Attack and Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
-5. [Knee Slice Leg Weave Pass to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-pass-to-submission.md)
-6. [Armbar Control and Escape](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
+1. [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+2. [Control Tie to Ground](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/control-tie-to-ground.md)
+3. [Knee Slice, Leg Weave, or X Pass Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
+4. [Side Control Figure Four Attack and Defense](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
+5. [Knee Slice Leg Weave Pass to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-pass-to-submission.md)
+6. [Armbar Control and Escape](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Progressive Touch to Bodylock](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
+### 1.1 - [Progressive Touch to Bodylock](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-touch-to-bodylock.md)
 
 **Overview:** A competitive standing drill where both partners start with no connections and race to achieve a bodylock by completing three progressive touches: underhook, hand behind the knee, or Russian tie control.
 
@@ -35,7 +35,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Complete three touches (any combination of underhook, hand behind knee, or Russian tie) before establishing a bodylock, or bypass these requirements by shooting for a double leg takedown  
 **Win:** Successfully complete three touches and establish a bodylock, or successfully execute a double leg takedown
 
-### 1.2 - [Control Tie to Ground](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/control-tie-to-ground.md)
+### 1.2 - [Control Tie to Ground](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/control-tie-to-ground.md)
 
 **Overview:** A competitive takedown drill where both players race to control each other from dominant clinch positions and get their opponent down to their hips or onto both hands.
 
@@ -47,7 +47,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Guard Passing Drills
 
-### 2.1 - [Knee Slice, Leg Weave, or X Pass Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
+### 2.1 - [Knee Slice, Leg Weave, or X Pass Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
 
 **Overview:** A drill starting from knee slice position with knee shield where the top player must commit to one of three passing options: knee slice, leg weave, or X pass.
 
@@ -65,7 +65,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Pinning & Submission Drills
 
-### 3.1 - [Side Control Figure Four Attack and Defense](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
+### 3.1 - [Side Control Figure Four Attack and Defense](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-figure-four-attack.md)
 
 **Overview:** A ground-based drill focusing on attacking with the figure four arm control from side control and defending against it to recover guard.
 
@@ -81,7 +81,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Defend against the figure four control and work to recover any form of guard  
 **Win:** Successfully escape the position and recover guard
 
-### 3.2 - [Knee Slice Leg Weave Pass to Submission](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-pass-to-submission.md)
+### 3.2 - [Knee Slice Leg Weave Pass to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-pass-to-submission.md)
 
 **Overview:** A guard passing to submission drill where the top player starts in knee slice position, commits to a knee slice, leg weave, or X pass, then must advance into side control or mount and finish with a submission.
 
@@ -97,7 +97,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Defend the pass, create offensive reactions, and attack immediately when the top player commits weight  
 **Win:** Successfully sweep and come on top, submit the top player, or take the back with control
 
-### 3.3 - [Armbar Control and Escape](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
+### 3.3 - [Armbar Control and Escape](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
 
 **Overview:** A submission control drill where the top player starts in an armbar position and works to control, isolate, and straighten the arm, while the bottom player attempts to escape without being submitted.
 

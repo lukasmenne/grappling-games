@@ -5,12 +5,12 @@ This class focuses on developing effective attacks from the mount position with 
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Zombie Mode Underhook and Single Leg Counter](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
-2. [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
-3. [Pocket Leg Drag to Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
-4. [Mount Control and Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
-5. [Mount Wrist Control to Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-to-isolation.md)
-6. [Mount Control with Submissions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-with-submissions.md)
+1. [Zombie Mode Underhook and Single Leg Counter](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
+2. [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+3. [Pocket Leg Drag to Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
+4. [Mount Control and Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
+5. [Mount Wrist Control to Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-to-isolation.md)
+6. [Mount Control with Submissions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-with-submissions.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -26,7 +26,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Standing Drills
 
-### 1.1 - [Zombie Mode Underhook and Single Leg Counter](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
+### 1.1 - [Zombie Mode Underhook and Single Leg Counter](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/zombie-mode-underhook-single-leg-counter.md)
 
 **Overview:** An advanced variation of the Zombie Mode drill where the defending player not only denies contact but looks to establish underhooks or single leg takedowns when the "zombie" player's arms are extended.
 
@@ -42,7 +42,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Deny your partner's hands from making contact and look for opportunities to wrap your arms around your partner (underhooks) or secure a single leg takedown  
 **Win:** Successfully establish an underhook position or secure a single leg  
 
-### 1.2 - [Locked Hands Control Battle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
+### 1.2 - [Locked Hands Control Battle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/locked-hands-control-battle.md)
 
 **Overview:** A standing control drill where players compete to establish either upper body or lower body control by connecting their hands around their partner's body.
 
@@ -60,7 +60,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Passing Drills
 
-### 2.1 - [Pocket Leg Drag to Hip Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
+### 2.1 - [Pocket Leg Drag to Hip Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/pocket-leg-drag-to-hip-control.md)
 
 **Overview:** An advanced leg drag setup drill where the bottom player starts with their foot in the "pocket" position and works to recover guard or sweep, while the top player controls the leg and establishes hip control.
 
@@ -78,7 +78,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Pinning Drills
 
-### 3.1 - [Mount Control and Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
+### 3.1 - [Mount Control and Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-isolation.md)
 
 **Overview:** A drill focusing on maintaining top control while keeping the bottom player's arms isolated away from their body, which sets up various attacks including the arm triangle.
 
@@ -94,7 +94,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Bring both elbows back to ribs and establish guard  
 **Win:** Successfully get both hands on the hips with no arms under the elbows or get to guard  
 
-### 3.2 - [Mount Wrist Control to Isolation](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-to-isolation.md)
+### 3.2 - [Mount Wrist Control to Isolation](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-wrist-control-to-isolation.md)
 
 **Overview:** A drill focusing on establishing wrist control from the mount position and using it to isolate both of the bottom player's arms in preparation for submissions.
 
@@ -110,7 +110,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Free your wrists and get your hands on the top player's hips for defensive frames  
 **Win:** Successfully free both wrists and get both hands on the top player's hips  
 
-### 3.3 - [Mount Control with Submissions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-with-submissions.md)
+### 3.3 - [Mount Control with Submissions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/mount/mount-control-with-submissions.md)
 
 **Overview:** An advanced mount drill where the top player works to isolate the bottom player's arms and secure submissions, while the bottom player focuses on escaping to guard or reversing position.
 

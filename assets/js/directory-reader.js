@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Base URL for the repository
-    const baseRepoUrl = 'https://api.github.com/repos/mennlo/grappling-games/contents/';
+    const baseRepoUrl = 'https://api.github.com/repos/lukasmenne/grappling-games/contents/';
     const basePageUrl = window.location.href.split('index.html')[0];
     
     // The directories we want to list

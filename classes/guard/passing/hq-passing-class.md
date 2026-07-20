@@ -5,12 +5,12 @@ This class develops passing mechanics from the Headquarters (HQ) position, build
 
 This class consists of six progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Knee Touch and Mat Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
-2. [Headlock or Single Leg to Hip Cover](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/headlock-single-leg-to-hip-cover.md)
-3. [HQ Position Passing Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill.md)
+1. [Knee Touch and Mat Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
+2. [Headlock or Single Leg to Hip Cover](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/headlock-single-leg-to-hip-cover.md)
+3. [HQ Position Passing Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill.md)
 4. Static X-Pass
-5. [HQ Pass to Submission or Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-pass-to-submission-or-pin.md)
-6. [Side Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
+5. [HQ Pass to Submission or Pin](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-pass-to-submission-or-pin.md)
+6. [Side Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
 
 **Total Drilling Time:** 36 minutes
 - Standing Drills: 12 minutes
@@ -25,7 +25,7 @@ This class consists of six progressive drills that build upon each other. Each d
 
 ## Standing Drills
 
-### 1.1 - [Knee Touch and Mat Touch](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
+### 1.1 - [Knee Touch and Mat Touch](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/knee-touch-and-mat-touch.md)
 
 **Overview:** A competitive standing drill where both partners race to touch behind their opponent's knee or force their opponent's hands to touch the mat. First to achieve three touches wins.
 
@@ -35,7 +35,7 @@ This class consists of six progressive drills that build upon each other. Each d
 **Objective:** Touch behind your partner's knee or get their hands to touch the mat  
 **Win:** Successfully complete three touches (any combination of behind-knee touches or forcing hands to mat)
 
-### 1.2 - [Headlock or Single Leg to Hip Cover](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/headlock-single-leg-to-hip-cover.md)
+### 1.2 - [Headlock or Single Leg to Hip Cover](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/headlock-single-leg-to-hip-cover.md)
 
 **Overview:** An asymmetric standing drill where the attacker starts from a front headlock or single leg position and works to drive the defender to their hips and cover them, or connect to a rear bodylock and lift their partner or drive them down to their hands. The defender works to disconnect all connections and return to neutral standing.
 
@@ -53,7 +53,7 @@ This class consists of six progressive drills that build upon each other. Each d
 
 ## Guard Passing
 
-### 2.1 - [HQ Position Passing Drill](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill.md)
+### 2.1 - [HQ Position Passing Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-position-passing-drill.md)
 
 **Overview:** A drill focusing on the Headquarters (HQ) passing position with one player standing and splitting the bottom player's legs. The top player works to maintain control and connections while the bottom player works to re-establish inside position.
 
@@ -74,7 +74,7 @@ This class consists of six progressive drills that build upon each other. Each d
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
-### 2.3 - [HQ Pass to Submission or Pin](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-pass-to-submission-or-pin.md)
+### 2.3 - [HQ Pass to Submission or Pin](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-pass-to-submission-or-pin.md)
 
 **Overview:** A full sequence drill starting from HQ position where the top player works to complete the pass and finish with a submission or secure a dominant head-and-arm pin. The bottom player works to sweep, submit, or take the back from guard.
 
@@ -93,7 +93,7 @@ This class consists of six progressive drills that build upon each other. Each d
 
 ## Pinning
 
-### 3.1 - [Side Control Transitions](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
+### 3.1 - [Side Control Transitions](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/side-control-transitions.md)
 
 **Overview:** A drill focused on maintaining and transitioning from side control, or escaping side control using movement and framing.
 

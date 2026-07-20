@@ -19,7 +19,7 @@ Always format time specifications as this unless told otherwise:
 ## GitHub Pages URLs Format
 
 When linking to game files from class files, always use the format:
-`https://mennlo.github.io/grappling-games/md-viewer.html?file=games/path/to/game-file.md`
+`https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/path/to/game-file.md`
 
 ## Position, Objective, Constraints, Win Format
 

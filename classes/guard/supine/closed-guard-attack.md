@@ -3,18 +3,18 @@
 
 This class consists of several progressive drills that build upon each other. Each drill is available as an individual game file for reference.
 
-1. [Front Headlock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
-2. [Rear Standing Bodylock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
-3. [Progressive Standing Control Cycle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-standing-control-cycle.md)
-4. [Closed Guard Base Disruption](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
-4. [Closed Guard Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
-5. [Closed Guard Attack Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
-6. [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
-7. [Armbar Control and Escape](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
+1. [Front Headlock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
+2. [Rear Standing Bodylock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
+3. [Progressive Standing Control Cycle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-standing-control-cycle.md)
+4. [Closed Guard Base Disruption](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
+4. [Closed Guard Guillotine](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
+5. [Closed Guard Attack Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
+6. [Seatbelt Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
+7. [Armbar Control and Escape](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/armbar-control-and-escape.md)
 
 ## Standing Drills
 
-### Standing 1 - [Front Headlock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
+### Standing 1 - [Front Headlock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/front-headlock-control.md)
 
 **Overview:** A standing drill focusing on maintaining the front headlock position while controlling your opponent's head and upper body.
 
@@ -30,7 +30,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Work to disconnect your partner's hands and free your head from the position  
 **Win:** Successfully disconnect the hands and free your head from the front headlock  
 
-### Standing 2 - [Rear Standing Bodylock Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
+### Standing 2 - [Rear Standing Bodylock Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/rear-standing-bodylock-control.md)
 
 **Overview:** A standing drill focusing on controlling the opponent from a rear standing bodylock position, with the goal of forcing their hands to the mat while maintaining the bodylock.
 
@@ -46,7 +46,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Maintain your base, disrupt the connection of your partner's hands, and turn to face your partner  
 **Win:** Successfully break the bodylock and turn to face your partner  
 
-### Standing 3 - [Progressive Standing Control Cycle](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-standing-control-cycle.md)
+### Standing 3 - [Progressive Standing Control Cycle](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/progressive-standing-control-cycle.md)
 
 **Overview:** A dynamic standing drill where the attacking player works to cycle through three control positions (front headlock, single leg, and bodylock) by first forcing their partner's hands to the mat before transitioning to the next position.
 
@@ -64,7 +64,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Closed Guard Drills
 
-### Guard 1 - [Closed Guard Base Disruption](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
+### Guard 1 - [Closed Guard Base Disruption](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-base-disruption.md)
 
 **Overview:** A closed guard drill focusing on the bottom player disrupting the top player's base by forcing them to touch the mat three times or getting an overhook and on your side.
 
@@ -80,7 +80,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Maintain your base and posture without allowing your hands or knees to touch the mat  
 **Win:** Successfully maintain your base without touching the mat three times or allowing your partner to get an overhook
 
-### Guard 2 - [Closed Guard Guillotine](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
+### Guard 2 - [Closed Guard Guillotine](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-guillotine.md)
 
 **Overview:** A closed guard drill where the bottom player starts with an arm-in guillotine position and works to finish the choke, while the top player focuses on escaping the head control and posturing up.
 
@@ -96,7 +96,7 @@ This class consists of several progressive drills that build upon each other. Ea
 **Objective:** Fight the hands around your neck, create pressure, and work to posture up  
 **Win:** Successfully escape the guillotine control and establish posture  
 
-### Guard 3 - [Closed Guard Attack Options](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
+### Guard 3 - [Closed Guard Attack Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/closed/closed-guard-attack-options.md)
 
 **Overview:** A closed guard drill where the bottom player works to achieve multiple offensive control positions while the top player defends and maintains posture or starts passing.
 
@@ -114,7 +114,7 @@ This class consists of several progressive drills that build upon each other. Ea
 
 ## Pinning Drills
 
-### Pinning 1 - [Seatbelt Back Control](https://mennlo.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
+### Pinning 1 - [Seatbelt Back Control](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/pinning/seatbelt-back-control.md)
 
 **Overview:** A back control drill focused on establishing hooks from the back position while maintaining chest-to-back connection. The back controller works to establish hooks while the defending player attempts to break the chest-to-back connection and escape.
 
