@@ -6,7 +6,7 @@ This class advances knee cut passing concepts through single leg defense and qua
 This class consists of progressive drills (games) that build upon each other. Each drill is available as an individual game file for reference.
 
 1. [Kimura Defense vs Single Leg Takedown](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-defense-single-leg.md)
-2. [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+2. [Kimura Finish or Back Take from T-Position](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-t-position-finish-or-back-take.md)
 3. [Quarter Guard Underhook Progression Passing](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/quarter-guard-underhook-progression-passing.md)
 4. [Head Quarters to Knee Slice or Leg Weave Pass](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/hq-knee-slice-leg-weave.md)
 5. [Knee Slice, Leg Weave, or X Pass Drill](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/knee-slice-leg-weave-x-pass-drill.md)
@@ -15,7 +15,7 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Total Drilling Time:** 36 minutes
 - Standing and Single Leg Work: 12 minutes
   - Kimura Defense vs Single Leg Takedown: 6 minutes (3 x 2-minute rounds)
-  - Single Leg Control with Multiple Finish Options: 6 minutes (3 x 2-minute rounds)
+  - Kimura Finish or Back Take from T-Position: 6 minutes (3 x 2-minute rounds)
 
 - Guard Passing Drills: 18 minutes
   - Quarter Guard Underhook Progression Passing: 6 minutes (2 x 3-minute rounds)
@@ -33,13 +33,13 @@ This class consists of progressive drills (games) that build upon each other. Ea
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Attacking Player
-**Position:** Controlling your partner's leg in a head-inside single leg configuration, with your head on their chest and arms controlling the captured leg  
+**Position:** Controlling your partner's leg in a head-inside single leg configuration, with arms controlling the captured leg  
 **Objective:** Maintain single leg control while defending against the kimura counter. When thrown, tuck your chin and roll safely to protect your neck  
 **Win:** Successfully complete any single leg takedown finish, or defend the sacrifice throw and maintain top position
 
 #### Defending Player
 **Position:** Standing on one leg with your partner controlling your other leg in a head-inside single leg  
-**Objective:** Push your partner's head towards the outside, reach both arms to the nearside, and connect a kimura grip. Hop closer, squat down, and execute a sacrifice throw so your partner rolls over and lands on their back. After the throw, turn to come on top while maintaining kimura control if possible  
+**Objective:** Reach both arms to the nearside and connect a kimura grip on their inside arm (closest to your centerline). Hop closer, squat down, and execute a sacrifice throw so your partner rolls over and lands on their back. After the throw, turn to come on top while maintaining kimura control if possible  
 **Win:** Successfully execute the sacrifice throw and come on top, or escape the single leg with or without maintaining the kimura grip
 
 **Safety Notes:**
@@ -47,21 +47,26 @@ This class consists of progressive drills (games) that build upon each other. Ea
 - Start at controlled pace to ensure both partners understand the rolling mechanics
 - Tap early if the kimura creates discomfort
 
-### 1.2 - [Single Leg Control with Multiple Finish Options](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/single-leg-control-multiple-finishes.md)
+### 1.2 - [Kimura Finish or Back Take from T-Position](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/standing/kimura-t-position-finish-or-back-take.md)
 
-**Overview:** A drilling exercise where partners alternate between controlling a single leg and defending against single leg control, with multiple options for finishing the takedown.
+**Overview:** A drilling exercise picking up from the position commonly reached after countering a single leg with a kimura sacrifice throw. The attacking player starts above the defender's head in a T-position with the kimura grip already secured, and works to either finish the kimura or take the back.
 
 **Time:** 3 minutes, 2 partners or 6 minutes total - switching back and forth
 
 #### Attacking Player
-**Position:** One of your partner's legs is held with your hands and arms between your legs, head on chest  
-**Objective:** Stay connected to the single leg and move your partner around. Move the leg to different parts of your body, and attempt to finish with one of three options  
-**Win:** Successfully achieve any of the three win conditions: (1) Touch opponent's hands to the mat for 3 seconds, (2) Connect your hands around their torso (front or back) for 3 seconds, (3) Put your opponent on their butt for 3 seconds
+**Position:** On your side above your partner's head in a T-position, with a kimura grip secured on their near arm (the arm closest to their head)  
+**Objective:** Use the kimura grip to control your partner while working toward one of two finishes - come up to your knees and use the kimura to bring their hand behind their back, or transition around to take the back with a seatbelt grip and hips covered  
+**Win:** Come up to your knees and pin your partner's hand behind their back using the kimura, OR take the back with a seatbelt grip and hips covered
 
 #### Defending Player
-**Position:** Your partner has a single leg grip, and you are balanced on one foot  
-**Objective:** Stay balanced and remove your leg from the situation by any means  
-**Win:** Successfully free your leg from the single leg control
+**Position:** On your back or side with your partner above your head in a T-position, kimura grip already secured on your near arm  
+**Objective:** Defend the kimura grip and prevent your partner from pinning your hand behind your back or taking your back. Look for opportunities to recover guard, escape the grip, or come on top  
+**Win:** Free your arm from the kimura grip and recover guard, or reverse the position to come on top
+
+**Safety Notes:**
+- Attacking player should apply kimura pressure gradually and stop if the defending player's arm reaches its limit
+- Tap early if the kimura creates discomfort
+- Move slowly the first few reps until both partners understand the transition from T-position control to the finish
 
 ## Guard Passing Drills
 
