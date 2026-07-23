@@ -13,6 +13,12 @@ This class consists of six progressive drilling games that build upon each other
 6. [Half Guard to Submission](https://lukasmenne.github.io/grappling-games/md-viewer.html?file=games/guard/supine/half-guard-to-submission.md)
 
 **Total Drilling Time:** 36 minutes
+
+
+.
+
+
+afsdf
 - Standing Drills: 12 minutes
   - Grounded Front Headlock Transitions: 6 minutes (2 x 3-minute rounds)
   - T-Position Takedown Pathways: 6 minutes (2 x 3-minute rounds)
